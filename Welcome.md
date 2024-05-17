@@ -1,7 +1,7 @@
 This is pain staring matie
 
 
-[[green and scales]]
+[[green-and-scales]]
 
 [[Caypolis]]
 
