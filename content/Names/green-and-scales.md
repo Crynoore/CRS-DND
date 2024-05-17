@@ -1,4 +1,4 @@
-go back to start [[index]]
+go back to [[index]]
 
 the green and scales party consisnes of 5 members
 

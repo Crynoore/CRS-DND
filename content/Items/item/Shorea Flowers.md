@@ -1,3 +1,3 @@
-go back to start [[items]]
+go back to [[items]]
 
 ![[Shorea Flower Item.png]]

@@ -1,4 +1,4 @@
-go back to start [[index]]
+go back to [[index]]
 
 [[Episode 0 Prologue]]
 

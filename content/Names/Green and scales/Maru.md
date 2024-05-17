@@ -1,4 +1,5 @@
- go back to start [[green-and-scales]]
+go back to [[green-and-scales]]
+
 ![[A picture from the glory days.png]]
 Backstory
 

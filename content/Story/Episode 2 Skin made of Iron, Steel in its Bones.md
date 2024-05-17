@@ -1,4 +1,4 @@
-go back to start [[Story]]
+go back to [[Story]]
 
 when [[Garrick]] whent to go get the dragon he got in formed that a other guy (verry posh guy) 
 
@@ -73,7 +73,7 @@ we find the end of the cave at the end thare is a beam of line 
 
 we hear the sound of metal creaking 
 
-the [groep](content/Names/Green%20and%20scales/green-and-scales.md) starts the sneak 
+the [groep](green-and-scales.md) starts the sneak 
 
 the metal hount apears and chares [[Aronim-e]] 
 

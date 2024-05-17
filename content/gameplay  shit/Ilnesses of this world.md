@@ -1,4 +1,4 @@
-go back to start [[gameplay shit]]
+go back to [[gameplay shit]]
 
 [[Blueberry Parasite]]
 

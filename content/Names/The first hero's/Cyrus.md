@@ -1,1 +1,1 @@
-go back to start [[First-hero's]]
+go back to [[First-hero's]]

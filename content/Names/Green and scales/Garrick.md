@@ -1,5 +1,7 @@
+go back to [[green-and-scales]]
+
 ![[6. Garrick Salutes the moon.png]]
-go back to start [[green-and-scales]]
+
 
 This is the tale of a wise loxodon man who devoted his life to the Godess Selûne.
 

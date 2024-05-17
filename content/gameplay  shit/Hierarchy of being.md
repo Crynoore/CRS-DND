@@ -1,3 +1,3 @@
-go back to start [[gameplay shit]]
+go back to [[gameplay shit]]
 
 ![[Screenshot (632).png]]

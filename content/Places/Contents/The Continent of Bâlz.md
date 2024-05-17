@@ -1,4 +1,4 @@
-go back to start [[Continents]]
+go back to [[Continents]]
 
 
 some history of the continent of balz  

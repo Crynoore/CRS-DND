@@ -1,3 +1,3 @@
-go back to start [[Continents]]
+go back to [[Continents]]
 
 ![[TheFirstContinent.png]]

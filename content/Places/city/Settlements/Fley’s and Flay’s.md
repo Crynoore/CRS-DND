@@ -1,3 +1,3 @@
-go back to start [[Settlements]]
+go back to [[Settlements]]
 
 -political problems of the wazoo

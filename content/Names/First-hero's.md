@@ -1,4 +1,4 @@
-go back to start [[index]]
+go back to [[characters]]
 
 The great fearsome warrior [[Olvin]].
 

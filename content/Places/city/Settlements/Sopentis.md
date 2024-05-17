@@ -1,4 +1,4 @@
-go back to start [[Settlements]]
+go back to [[Settlements]]
 
 - very diverse population 
     

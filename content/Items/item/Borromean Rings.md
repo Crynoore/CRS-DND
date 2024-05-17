@@ -1,3 +1,3 @@
-go back to start [[items]]
+go back to [[items]]
 
 ![[Borromean Rings Item.png]]

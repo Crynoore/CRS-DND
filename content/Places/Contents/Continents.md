@@ -1,4 +1,4 @@
-go back to start [[index]]
+go back to [[index]]
 
 [[The Continent of Bâlz]]
 

@@ -1,4 +1,4 @@
-go back to start [[Story]]
+go back to [[Story]]
 
 [[Caypolis]]
 Festival = Cleansing day
