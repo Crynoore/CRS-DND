@@ -16,5 +16,4 @@ This is a very cool wiki for the DnD trust
 
 [[gameplay shit]]
 
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[NPC's]]
