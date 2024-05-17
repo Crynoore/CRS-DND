@@ -1,4 +1,4 @@
-go back to start [[index]]
+go back to start [[gameplay shit]]
 
 wine 1
 beer 1
