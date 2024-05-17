@@ -46,7 +46,7 @@ I..I managed to convince Maru to shoot a bolt at a guard. I healed him not long 
 **
 page 2
 inheeply rinsed the site gate guards.
-kiddos "[[fredrick]] son of fedrich fredrich" show may to slunk inn < overheard como about [[Joshua]] friend who " 
+kiddos "[[Fredrick]] son of fedrich fredrich" show may to slunk inn < overheard como about [[Joshua]] friend who " 
 "crate space rock"
  [[Maru]] talk to [Njimp](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md)
 [[Sarah]] doesn't know joshi

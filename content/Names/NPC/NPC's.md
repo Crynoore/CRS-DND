@@ -3,5 +3,24 @@
 [[Joshua]]
 ## one off NPC's
 
-[[Slum]]
+[[Deo]]
+
+[[Dux]]
+
+[[Fal]]
+
+[[Fredrick]]
+
+[[hyfe]]
+
+[[Irra]]
+
 [[jonas-guan]]
+
+[[Slum]]
+
+[[Slumm]]
+
+[[Slummm]]
+
+[[Vumfil]]
