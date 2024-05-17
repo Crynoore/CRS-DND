@@ -4,7 +4,7 @@ The Awakening of Aronim-e
 
   
 
-the wise archmage [[Cyrus]] stole a dragon egg to revive this dead brother 
+the wise archmage [[content/Names/The first hero's/Cyrus]] stole a dragon egg to revive this dead brother 
 
 but after the egg hatched(year 1618) Aronim-e was born ,
 

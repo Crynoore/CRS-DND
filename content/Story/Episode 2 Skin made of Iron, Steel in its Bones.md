@@ -1,27 +1,27 @@
 go back to start[[Welcome]]
 
-when [[Garrick]] whent to go get the dragon he got in formed that a other guy (verry posh guy) 
+when [[content/Names/Green and scales/Garrick]] whent to go get the dragon he got in formed that a other guy (verry posh guy) 
 
 the party gows to follow the rich guy 
 
 
 the rich guy and is goons go and sitt next to the road
 
-[nerup](リ⋮╎∷!¡) and [[Aronim-e]] have a interesting conversaton with no word 
+[nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) and [[content/Names/Green and scales/Aronim-e]] have a interesting conversaton with no word 
 
-while [[Maru]] is distracted with the music 
+while [[content/Names/Green and scales/Maru]] is distracted with the music 
 
 sarha cast smoke field and the rich man is in panic to and alerts the gaurts 
 
 maro steals the key to the cage 
 
-after this [nerup](リ⋮╎∷!¡) jump up the cage and yells THE FACK YOU MEAN
+after this [nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) jump up the cage and yells THE FACK YOU MEAN
 
-after this [[Aronim-e]] spits acid and opens the cage 
+after this [[content/Names/Green and scales/Aronim-e]] spits acid and opens the cage 
 
-while this is happening [[Maru]] used the key to open the cage 
+while this is happening [[content/Names/Green and scales/Maru]] used the key to open the cage 
 
-after this [[Aronim-e]] starts running 
+after this [[content/Names/Green and scales/Aronim-e]] starts running 
 
 with this every one start running the same way
 
@@ -39,25 +39,25 @@ but before it gows out of heand aronemi takes him to the library ruins to try th
 
 thay find a book about a El rocko
 
-[[Garrick]] teact nerup 5 new words 
+[[content/Names/Green and scales/Garrick]] teact nerup 5 new words 
 
-[[Sarah]] and [nerup](リ⋮╎∷!¡) make some light when [[Sarah]] dus this some strange magic happened 
+[[content/Names/Green and scales/Sarah]] and [nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) make some light when [[content/Names/Green and scales/Sarah]] dus this some strange magic happened 
 
 and then we go to the cave  
 
 at the start of the cave thay find a dead body (rats are eating the body)
 
-[nerup](リ⋮╎∷!¡) trys to investigate the rats 
+[nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) trys to investigate the rats 
 
 (he trys to get eat rat)
 
-[[Aronim-e]] gives some information about the first heroes 
+[[content/Names/Green and scales/Aronim-e]] gives some information about the first heroes 
 
 then thay go deeper into the cave
 
 (dean luner shit)
 
-[[Maru]] hotbox  cave story 
+[[content/Names/Green and scales/Maru]] hotbox  cave story 
 
 we gat attack by a goblin 
 
@@ -73,39 +73,39 @@ we find the end of the cave at the end thare is a beam of line 
 
 we hear the sound of metal creaking 
 
-the [groep](green-and-scales) starts the sneak 
+the [groep](content/Names/Green%20and%20scales/green-and-scales.md) starts the sneak 
 
-the metal hount apears and chares [[Aronim-e]] 
+the metal hount apears and chares [[content/Names/Green and scales/Aronim-e]] 
 
-[[Sarah]] pieks out of cover and attack the hount with some magic and hits him
+[[content/Names/Green and scales/Sarah]] pieks out of cover and attack the hount with some magic and hits him
 
-[[Aronim-e]] runs around and spits some strade acid 
+[[content/Names/Green and scales/Aronim-e]] runs around and spits some strade acid 
 
 after this  the hount splits in 3
 
-the metal hount runs at [[Aronim-e]] and misses him by just a bit
+the metal hount runs at [[content/Names/Green and scales/Aronim-e]] and misses him by just a bit
 
-[nerup](リ⋮╎∷!¡) trow the rat he collectend awhale a go to district 
+[nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) trow the rat he collectend awhale a go to district 
 
 the 2 other ones 
 
-[[Maru]] tries to insult the hound buy he is unable to swear 
+[[content/Names/Green and scales/Maru]] tries to insult the hound buy he is unable to swear 
 
-[[Sarah]] uses some chaos magic that re activats the insult that [[Maru]] told him
+[[content/Names/Green and scales/Sarah]] uses some chaos magic that re activats the insult that [[content/Names/Green and scales/Maru]] told him
 
 after this the a beam of blue energy beam out of him and hits a stalitijd fals on him and kills him 
 
 after the we looted the hound we found a -cog of metal mutt-
 
-we leave the cave (and [[Aronim-e]] and [[maru]] take a piss at the end of the cave )to go back to the [old man](jonas-guan) and tell him how we bestet the beast 
+we leave the cave (and [[content/Names/Green and scales/Aronim-e]] and [[content/Names/Green and scales/Maru]] take a piss at the end of the cave )to go back to the [old man](jonas-guan) and tell him how we bestet the beast 
 
-the [[Maru]] start talking dwarfish to the old (lukhet hamergorg) after this the [old man](jonas-guan) knows about the [[Maru]] and thels him about the whereabouts of[[Joshua]]
+the [[content/Names/Green and scales/Maru]] start talking dwarfish to the old (lukhet hamergorg) after this the [old man](jonas-guan) knows about the [[content/Names/Green and scales/Maru]] and thels him about the whereabouts of[[Joshua]]
 
 (shere altamers momant)
 
 the mark on the cog of metal mutt was related to the moradlin (fearun god dwarfs)
 
-[nerup](リ⋮╎∷!¡) pogs out about the rainbow
+[nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) pogs out about the rainbow
 
 we see a shack in the distance
 

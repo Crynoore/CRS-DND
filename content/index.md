@@ -4,7 +4,7 @@ title: Welcome to the CRS DnD
 
 This is a very cool wiki for the DnD trust
 
-[[green-and-scales]]
+[[content/Names/Green and scales/green-and-scales]]
 
 [[Caypolis]]
 
