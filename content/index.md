@@ -1,14 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the CRS DnD
 ---
 
 This is a very cool wiki for the DnD trust
 
-go to [[Welcome]] as the star of the wiki
+[[green-and-scales]]
 
-
-
-
+[[Caypolis]]
 
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
