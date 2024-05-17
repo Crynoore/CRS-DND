@@ -1,4 +1,4 @@
-go back to start [[index]]
+go back to start [[Story]]
 
 when [[Garrick]] whent to go get the dragon he got in formed that a other guy (verry posh guy) 
 

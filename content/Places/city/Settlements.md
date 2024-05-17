@@ -7,7 +7,7 @@
 
 ## [[Gytosma]]
 
-## [[Fley’s and Flay’s]]s
+## [[Fley’s and Flay’s]]
 
 ## Lost coast
 

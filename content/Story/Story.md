@@ -1,3 +1,5 @@
+go back to start [[index]]
+
 [[Episode 0 Prologue]]
 
 [[Episode 1 Day of Cleansing]]

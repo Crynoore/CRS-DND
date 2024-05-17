@@ -1,4 +1,4 @@
-go back to start [[index]]
+go back to start [[Story]]
 
 [[Caypolis]]
 Festival = Cleansing day
@@ -46,12 +46,12 @@ I..I managed to convince Maru to shoot a bolt at a guard. I healed him not long 
 **
 page 2
 inheeply rinsed the site gate guards.
-kiddos "fredrick son of fedrich fredrich" show may to slunk inn < overheard como about [[Joshua]] friend who " 
+kiddos "[[fredrick]] son of fedrich fredrich" show may to slunk inn < overheard como about [[Joshua]] friend who " 
 "crate space rock"
  [[Maru]] talk to [Njimp](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md)
-[[Sareh]] doesn't know joshi
+[[Sarah]] doesn't know joshi
 I stumbled upon 2 travellous [Nging](リ⋮╎∷!¡) and [[Maru]]
-we went to slums inn owned by slum we higher 2 singel en dubbele bed. I paid (2 gp
+we went to slums inn owned by [[slum]] we higher 2 singel en dubbele bed. I paid (2 gp
 Food cost 2sp slum fish and big apple"
 slum gave me a botte of beach sand
 overheard Maru explaining "soking maru wana"

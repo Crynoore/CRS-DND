@@ -1,5 +1,5 @@
  go back to start [[green-and-scales]]
-
+![[A picture from the glory days.png]]
 Backstory
 
 I’m done writing jokes
