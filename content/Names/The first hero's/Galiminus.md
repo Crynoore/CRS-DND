@@ -35,7 +35,7 @@ it only took me 2 year to get to this place,
 
 and I got [[Cyrus]] to come with me. I asked the other 2 but they didn't answer.
 
-I mean [[Cryus]] said no, he was gonna study some more books or all that.
+I mean [[Cyrus]] said no, he was gonna study some more books or all that.
 
 but i said to him that he can get my books of the old gods that's on my island.
 
