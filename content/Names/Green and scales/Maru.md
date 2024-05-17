@@ -1,4 +1,4 @@
-go back to start[[Welcome]]
+ go back to start [[green-and-scales]]
 
 Backstory
 

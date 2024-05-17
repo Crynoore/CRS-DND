@@ -4,9 +4,11 @@ title: Welcome to the CRS DnD
 
 This is a very cool wiki for the DnD trust
 
-[[content/Names/Green and scales/green-and-scales]]
+[[green-and-scales]]
+[[First-hero's]]
+[[Story]]
 
-[[Caypolis]]
+[[Settlements]]
 
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.

@@ -1,10 +1,10 @@
-go back to start[[Welcome]]
+go back to start [[First-hero's]]
 
 **The Epilogue of Gallimimus
 
   
 
-We did it, we saved The first continent.
+We did it, we saved [[The First Continent]]
 
 Took us long enough, I have seen every part of that place and I'm fine not seeing 80% of never again.
 
@@ -12,15 +12,15 @@ But now that I have seen all of the first continent and the discovery of other l
 
   
 
-i'll start with Faerûn,
+i'll start with [[The Continent of Faerûn]]
 
 it look to be the most interesting of the ones we know currently
 
-I mean if your competition is a place called Bâlz, you don't have to try hard.
+I mean if your competition is a place called [[The Continent of Bâlz]], you don't have to try hard.
 
 Also the dwarfs are not that happy that the humans have taken about 40% of their land for themselves.
 
-and i think I deserve a break after 15 years of combat, talking about combat i did not see Olvin et or great event.
+and i think I deserve a break after 15 years of combat, talking about combat i did not see [[Olvin]] et or great event.
 
 I think that guy has the toughest time of us all, he needs to get some time to rest.
 
@@ -33,9 +33,9 @@ He saved my life many times so it seems fair to help him when he needs it.
 
 it only took me 2 year to get to this place,
 
-and I got Cyrus to come with me. I asked the other 2 but they didn't answer.
+and I got [[Cyrus]] to come with me. I asked the other 2 but they didn't answer.
 
-I mean Cryus said no, he was gonna study some more books or all that.
+I mean [[Cryus]] said no, he was gonna study some more books or all that.
 
 but i said to him that he can get my books of the old gods that's on my island.
 

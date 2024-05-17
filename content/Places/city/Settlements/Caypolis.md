@@ -1,4 +1,4 @@
-go back to start[[Welcome]]
+go back to start [[index]]
 - -is the start of the campaign
     
 - is a human city the is kinde (very) not friendly to other races

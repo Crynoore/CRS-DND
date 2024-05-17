@@ -1,5 +1,5 @@
 
-go back to start[[Welcome]]
+go back to start [[green-and-scales]]
 
 This is the tale of a wise loxodon man who devoted his life to the Godess Selûne.
 

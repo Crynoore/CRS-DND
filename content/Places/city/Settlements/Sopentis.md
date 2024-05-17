@@ -1,4 +1,4 @@
-go back to start[[Welcome]]
+go back to start [[index]]
 
 - very diverse population 
     
