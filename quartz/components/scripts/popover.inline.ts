@@ -1,5 +1,16 @@
 import { computePosition, flip, inline, shift } from "@floating-ui/dom"
-import { normalizeRelativeURLs } from "../../util/path"
+
+// from micromorph/src/utils.ts
+// https://github.com/natemoo-re/micromorph/blob/main/src/utils.ts#L5
+export function normalizeRelativeURLs(el: Element | Document, base: string | URL) {
+  const update = (el: Element, attr: string, base: string | URL) => {
+    el.setAttribute(attr, new URL(el.getAttribute(attr)!, base).pathname)
+  }
+
+  el.querySelectorAll('[href^="./"], [href^="../"]').forEach((item) => update(item, "href", base))
+
+  el.querySelectorAll('[src^="./"], [src^="../"]').forEach((item) => update(item, "src", base))
+}
 
 const p = new DOMParser()
 async function mouseEnterHandler(
@@ -7,10 +18,6 @@ async function mouseEnterHandler(
   { clientX, clientY }: { clientX: number; clientY: number },
 ) {
   const link = this
-  if (link.dataset.noPopover === "true") {
-    return
-  }
-
   async function setPosition(popoverElement: HTMLElement) {
     const { x, y } = await computePosition(link, popoverElement, {
       middleware: [inline({ x: clientX, y: clientY }), shift(), flip()],
@@ -21,11 +28,8 @@ async function mouseEnterHandler(
     })
   }
 
-  const hasAlreadyBeenFetched = () =>
-    [...link.children].some((child) => child.classList.contains("popover"))
-
   // dont refetch if there's already a popover
-  if (hasAlreadyBeenFetched()) {
+  if ([...link.children].some((child) => child.classList.contains("popover"))) {
     return setPosition(link.lastChild as HTMLElement)
   }
 
@@ -36,56 +40,27 @@ async function mouseEnterHandler(
   const hash = targetUrl.hash
   targetUrl.hash = ""
   targetUrl.search = ""
+  // prevent hover of the same page
+  if (thisUrl.toString() === targetUrl.toString()) return
 
-  const response = await fetch(`${targetUrl}`).catch((err) => {
-    console.error(err)
-  })
+  const contents = await fetch(`${targetUrl}`)
+    .then((res) => res.text())
+    .catch((err) => {
+      console.error(err)
+    })
 
-  // bailout if another popover exists
-  if (hasAlreadyBeenFetched()) {
-    return
-  }
-
-  if (!response) return
-  const [contentType] = response.headers.get("Content-Type")!.split(";")
-  const [contentTypeCategory, typeInfo] = contentType.split("/")
+  if (!contents) return
+  const html = p.parseFromString(contents, "text/html")
+  normalizeRelativeURLs(html, targetUrl)
+  const elts = [...html.getElementsByClassName("popover-hint")]
+  if (elts.length === 0) return
 
   const popoverElement = document.createElement("div")
   popoverElement.classList.add("popover")
   const popoverInner = document.createElement("div")
   popoverInner.classList.add("popover-inner")
   popoverElement.appendChild(popoverInner)
-
-  popoverInner.dataset.contentType = contentType ?? undefined
-
-  switch (contentTypeCategory) {
-    case "image":
-      const img = document.createElement("img")
-      img.src = targetUrl.toString()
-      img.alt = targetUrl.pathname
-
-      popoverInner.appendChild(img)
-      break
-    case "application":
-      switch (typeInfo) {
-        case "pdf":
-          const pdf = document.createElement("iframe")
-          pdf.src = targetUrl.toString()
-          popoverInner.appendChild(pdf)
-          break
-        default:
-          break
-      }
-      break
-    default:
-      const contents = await response.text()
-      const html = p.parseFromString(contents, "text/html")
-      normalizeRelativeURLs(html, targetUrl)
-      const elts = [...html.getElementsByClassName("popover-hint")]
-      if (elts.length === 0) return
-
-      elts.forEach((elt) => popoverInner.appendChild(elt))
-  }
+  elts.forEach((elt) => popoverInner.appendChild(elt))
 
   setPosition(popoverElement)
   link.appendChild(popoverElement)
@@ -102,7 +77,7 @@ async function mouseEnterHandler(
 document.addEventListener("nav", () => {
   const links = [...document.getElementsByClassName("internal")] as HTMLLinkElement[]
   for (const link of links) {
+    link.removeEventListener("mouseenter", mouseEnterHandler)
     link.addEventListener("mouseenter", mouseEnterHandler)
-    window.addCleanup(() => link.removeEventListener("mouseenter", mouseEnterHandler))
   }
 })

@@ -1,9 +1,7 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponentConstructor } from "./types"
 // @ts-ignore
 import script from "./scripts/graph.inline"
 import style from "./styles/graph.scss"
-import { i18n } from "../i18n"
-import { classNames } from "../util/lang"
 
 export interface D3Config {
   drag: boolean
@@ -15,9 +13,6 @@ export interface D3Config {
   linkDistance: number
   fontSize: number
   opacityScale: number
-  removeTags: string[]
-  showTags: boolean
-  focusOnHover?: boolean
 }
 
 interface GraphOptions {
@@ -36,9 +31,6 @@ const defaultOptions: GraphOptions = {
     linkDistance: 30,
     fontSize: 0.6,
     opacityScale: 1,
-    showTags: true,
-    removeTags: [],
-    focusOnHover: false,
   },
   globalGraph: {
     drag: true,
@@ -50,19 +42,16 @@ const defaultOptions: GraphOptions = {
     linkDistance: 30,
     fontSize: 0.6,
     opacityScale: 1,
-    showTags: true,
-    removeTags: [],
-    focusOnHover: true,
   },
 }
 
 export default ((opts?: GraphOptions) => {
-  const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-    const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
-    const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
+  function Graph() {
+    const localGraph = { ...opts?.localGraph, ...defaultOptions.localGraph }
+    const globalGraph = { ...opts?.globalGraph, ...defaultOptions.globalGraph }
     return (
-      <div class={classNames(displayClass, "graph")}>
-        <h3>{i18n(cfg.locale).components.graph.title}</h3>
+      <div class="graph">
+        <h3>Graph View</h3>
         <div class="graph-outer">
           <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
           <svg

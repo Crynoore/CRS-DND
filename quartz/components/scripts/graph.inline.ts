@@ -1,4 +1,4 @@
-import type { ContentDetails, ContentIndex } from "../../plugins/emitters/contentIndex"
+import type { ContentDetails } from "../../plugins/emitters/contentIndex"
 import * as d3 from "d3"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
@@ -42,39 +42,17 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     linkDistance,
     fontSize,
     opacityScale,
-    removeTags,
-    showTags,
-    focusOnHover,
   } = JSON.parse(graph.dataset["cfg"]!)
 
-  const data: Map<SimpleSlug, ContentDetails> = new Map(
-    Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
-      simplifySlug(k as FullSlug),
-      v,
-    ]),
-  )
+  const data = await fetchData
+
   const links: LinkData[] = []
-  const tags: SimpleSlug[] = []
-
-  const validLinks = new Set(data.keys())
-  for (const [source, details] of data.entries()) {
+  for (const [src, details] of Object.entries<ContentDetails>(data)) {
+    const source = simplifySlug(src as FullSlug)
     const outgoing = details.links ?? []
-
     for (const dest of outgoing) {
-      if (validLinks.has(dest)) {
-        links.push({ source: source, target: dest })
-      }
-    }
-
-    if (showTags) {
-      const localTags = details.tags
-        .filter((tag) => !removeTags.includes(tag))
-        .map((tag) => simplifySlug(("tags/" + tag) as FullSlug))
-
-      tags.push(...localTags.filter((tag) => !tags.includes(tag)))
-
-      for (const tag of localTags) {
-        links.push({ source: source, target: tag })
+      if (dest in data) {
+        links.push({ source, target: dest })
       }
     }
   }
@@ -96,19 +74,15 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       }
     }
   } else {
-    validLinks.forEach((id) => neighbourhood.add(id))
-    if (showTags) tags.forEach((tag) => neighbourhood.add(tag))
+    Object.keys(data).forEach((id) => neighbourhood.add(simplifySlug(id as FullSlug)))
   }
 
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
-    nodes: [...neighbourhood].map((url) => {
-      const text = url.startsWith("tags/") ? "#" + url.substring(5) : data.get(url)?.title ?? url
-      return {
-        id: url,
-        text: text,
-        tags: data.get(url)?.tags ?? [],
-      }
-    }),
+    nodes: [...neighbourhood].map((url) => ({
+      id: url,
+      text: data[url]?.title ?? url,
+      tags: data[url]?.tags ?? [],
+    })),
     links: links.filter((l) => neighbourhood.has(l.source) && neighbourhood.has(l.target)),
   }
 
@@ -152,7 +126,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return "var(--secondary)"
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+    } else if (visited.has(d.id)) {
       return "var(--tertiary)"
     } else {
       return "var(--gray)"
@@ -190,8 +164,6 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     return 2 + Math.sqrt(numLinks)
   }
 
-  let connectedNodes: SimpleSlug[] = []
-
   // draw individual nodes
   const node = graphNode
     .append("circle")
@@ -205,25 +177,17 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       window.spaNavigate(new URL(targ, window.location.toString()))
     })
     .on("mouseover", function (_, d) {
+      const neighbours: SimpleSlug[] = data[fullSlug].links ?? []
+      const neighbourNodes = d3
+        .selectAll<HTMLElement, NodeData>(".node")
+        .filter((d) => neighbours.includes(d.id))
       const currentId = d.id
       const linkNodes = d3
         .selectAll(".link")
         .filter((d: any) => d.source.id === currentId || d.target.id === currentId)
 
-      if (focusOnHover) {
-        // fade out non-neighbour nodes
-        connectedNodes = linkNodes.data().flatMap((d: any) => [d.source.id, d.target.id])
-
-        d3.selectAll<HTMLElement, NodeData>(".link")
-          .transition()
-          .duration(200)
-          .style("opacity", 0.2)
-        d3.selectAll<HTMLElement, NodeData>(".node")
-          .filter((d) => !connectedNodes.includes(d.id))
-          .transition()
-          .duration(200)
-          .style("opacity", 0.2)
-      }
+      // highlight neighbour nodes
+      neighbourNodes.transition().duration(200).attr("fill", color)
 
       // highlight links
       linkNodes.transition().duration(200).attr("stroke", "var(--gray)").attr("stroke-width", 1)
@@ -242,10 +206,6 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         .style("font-size", bigFont + "em")
     })
     .on("mouseleave", function (_, d) {
-      if (focusOnHover) {
-        d3.selectAll<HTMLElement, NodeData>(".link").transition().duration(200).style("opacity", 1)
-        d3.selectAll<HTMLElement, NodeData>(".node").transition().duration(200).style("opacity", 1)
-      }
       const currentId = d.id
       const linkNodes = d3
         .selectAll(".link")
@@ -270,7 +230,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .attr("dx", 0)
     .attr("dy", (d) => -nodeRadius(d) + "px")
     .attr("text-anchor", "middle")
-    .text((d) => d.text)
+    .text(
+      (d) => data[d.id]?.title || (d.id.charAt(1).toUpperCase() + d.id.slice(2)).replace("-", " "),
+    )
     .style("opacity", (opacityScale - 1) / 3.75)
     .style("pointer-events", "none")
     .style("font-size", fontSize + "em")
@@ -334,12 +296,12 @@ function renderGlobalGraph() {
   registerEscapeHandler(container, hideGlobalGraph)
 }
 
-document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
-  const slug = e.detail.url
+document.addEventListener("nav", async (e: unknown) => {
+  const slug = (e as CustomEventMap["nav"]).detail.url
   addToVisited(slug)
   await renderGraph("graph-container", slug)
 
   const containerIcon = document.getElementById("global-graph-icon")
+  containerIcon?.removeEventListener("click", renderGlobalGraph)
   containerIcon?.addEventListener("click", renderGlobalGraph)
-  window.addCleanup(() => containerIcon?.removeEventListener("click", renderGlobalGraph))
 })
