@@ -5,13 +5,13 @@ go back to [[index]]
 
 ## [[Sopentis]]
 
-## [[Gytosma]]
+## [[Gyrosma]]
 
 ## [[Fley’s and Flay’s]]
 
 ## [[Town of Fish]]
 
-
+## [[Eurgh]] 
 
 ## Lost coast
 

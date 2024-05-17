@@ -6,22 +6,26 @@ This is a very cool wiki for the DnD trust
 
 [[characters]]
 
+[[gods]]
+
 [[Story]]
-
-[[Settlements]]
-
-[[items]]
-
-[[gameplay shit]]
-
-[[NPC's]]
-
-[[timeline]]
 
 [[Factions]]
 
+[[Settlements]]
+
+[[Continents]]
+
+[[items]]
+
+[[Materials]]
+
+[[books]]
+
+[[timeline]]
+
 [[playlist's]]
 
-
+[[gameplay shit]]
 
 

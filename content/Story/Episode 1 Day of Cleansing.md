@@ -27,7 +27,7 @@ In an act of insanity I wrote “welcome” on the wall with shit
 
 ~The others are speaking in the alleys 
 
-I used my magical hand to retrieve the keys of my cellblock after which I begged Selune for forgiveness 
+I used my magical hand to retrieve the keys of my cellblock after which I begged [[Selûne]] for forgiveness 
 
 I then enjoyed Maru’s tunes for a bit
 
@@ -46,29 +46,29 @@ I..I managed to convince Maru to shoot a bolt at a guard. I healed him not long 
 **
 page 2
 inheeply rinsed the site gate guards.
-kiddos "[[Fredrick]] son of fedrich fredrich" show may to slunk inn < overheard como about [[Joshua]] friend who " 
+kiddos "[[Fredrick]] son of fedrich fredrich" show may to slums inn < overheard como about [[Joshua]] friend who " 
 "crate space rock"
  [[Maru]] talk to [Njimp](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md)
 [[Sarah]] doesn't know joshi
 I stumbled upon 2 travellous [Nging](リ⋮╎∷!¡) and [[Maru]]
 we went to slums inn owned by [[slum]] we higher 2 singel en dubbele bed. I paid (2 gp
 Food cost 2sp slum fish and big apple"
-slum gave me a botte of beach sand
+[[Slum]] gave me a botte of beach sand
 overheard Maru explaining "soking maru wana"
  [[Maru]] sees vegetable in garden
 
 food was great, the fish was sweet with a srall taste of salt.
 I pray, yet my prayer does not get answered
-hear Share order chicken wings + njerp gets a slummy
+hear [[Sarah]] order chicken wings + [njerp](リ⋮╎∷!¡) gets a slummy
 Maru likes me?
 [[Sarah]] knows about maru wana
 "without my maru wana, I ain't nothing"
-slum is a yappen -> Joshua? Valley somewher last (I from this)
+[[slum]] is a yappen -> Joshua? Valley somewher last (I from this)
 Lake in either mest or east  (Man)
 Hill kidrappen is ook east (Bouch)
 
  [[Maru]] en mying have handshake
-Share did not engage in handshake
+[[Sarah]] did not engage in handshake
 ask [[Sarah]] about her orging distracted by mounten
  [[Sarah]] gather barsy and feads [hnjep](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md)
 < people singing joyfuly
@@ -76,7 +76,7 @@ I tried to meak up on them but failed, a beating branch allerded then i tried to
 
 page 3
 people are not selunites but did know about joshua who appeartly of "deliver things"
-Maru player of word game with them
+[[Maru]] player of word game with them
 star air
 stone earth
 

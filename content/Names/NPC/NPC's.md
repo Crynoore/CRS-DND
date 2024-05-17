@@ -12,7 +12,7 @@ go back to [[characters]]
 
 [[Fredrick]]
 
-[[hyfe]]
+[[Hyfe]]
 
 [[Irra]]
 
@@ -25,3 +25,20 @@ go back to [[characters]]
 [[Slummm]]
 
 [[Vumfil]]
+
+## lore npc'c (guys that have only been seen in lore)
+
+[[Averi]]
+
+[[Edel]]
+
+[[Fezel]]
+
+[[Henry the 7]]
+
+[[Jeremiah]]
+
+[[Master Ugwa]]
+
+[[Yagor]]
+
