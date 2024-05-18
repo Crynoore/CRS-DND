@@ -22,7 +22,7 @@ This is a very cool wiki for the DnD trust
 
 [[Materials]]
 
-[[Bookss]]
+[[Books]]
 
 [[timeline]]
 
