@@ -8,7 +8,7 @@ This is a very cool wiki for the DnD trust
 
 [[Gods]]
 
-[[Monsters]]
+[[Threat level]]
 
 [[Story]]
 
@@ -22,7 +22,7 @@ This is a very cool wiki for the DnD trust
 
 [[Materials]]
 
-[[books]]
+[[Books]]
 
 [[timeline]]
 
