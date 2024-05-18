@@ -22,7 +22,7 @@ This is a very cool wiki for the DnD trust
 
 [[Materials]]
 
-[[Books]]
+[[Bookss]]
 
 [[timeline]]
 
@@ -31,6 +31,6 @@ This is a very cool wiki for the DnD trust
 [[gameplay shit]]
 
 
-Version 1.0.0.5 of the wiki is out NOW
+Version 1.0.0.8 of the wiki is out NOW
 
 
