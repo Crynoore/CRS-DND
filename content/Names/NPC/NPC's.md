@@ -1,4 +1,4 @@
-go back to [[characters]]
+go back to [[Characters]]
 ## story NPC's
 
 [[Joshua]]

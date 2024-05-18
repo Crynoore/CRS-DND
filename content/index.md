@@ -4,9 +4,9 @@ title: Welcome to the CRS DnD
 
 This is a very cool wiki for the DnD trust
 
-[[characters]]
+[[Characters]]
 
-[[gods]]
+[[Gods]]
 
 [[Monsters]]
 
@@ -31,6 +31,6 @@ This is a very cool wiki for the DnD trust
 [[gameplay shit]]
 
 
-Version 1.0.0.3 of the wiki is out NOW
+Version 1.0.0.5 of the wiki is out NOW
 
 
