@@ -1,5 +1,5 @@
 
-Contract for Membership in the Imperial Brotherhood
+Contract for Membership in [[The Imperial Brotherhood]]
 
 
 This contract is entered into between the undersigned individual Member and the Imperial Brotherhood, effective as of the date of signing.
