@@ -1,3 +1,3 @@
-go back to [[gods]]
+go back to [[Gods]]
 
 some moon shit
