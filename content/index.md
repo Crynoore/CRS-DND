@@ -31,6 +31,6 @@ This is a very cool wiki for the DnD trust
 [[gameplay shit]]
 
 
-Version 1.0.0.1 of the wiki is out NOW
+Version 1.0.0.3 of the wiki is out NOW
 
 

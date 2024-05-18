@@ -20,3 +20,6 @@ used gods
 
 [[Dasan]]: god of elemental water
 
+
+[[big boy]]: god of fixing the wiki
+
