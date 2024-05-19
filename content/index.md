@@ -16,7 +16,7 @@ This is a very cool wiki for the DnD trust
 
 [[Religions]]
 
-[[Settlements]]
+[[Settlements of Bâlz]]
 
 [[Continents]]
 

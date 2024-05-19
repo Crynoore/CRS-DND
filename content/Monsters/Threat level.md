@@ -1,5 +1,6 @@
 go back to [[index]]
 
+# Dangers Beings 
 ## Calamity Level Threat
 
 A threat endangering the survival of a continent
@@ -24,3 +25,9 @@ Any threat to a large number of people.
 Any potential threat that poses a danger to an small number of people
 
 [[Metal Mutt]]
+
+# Neutral Beings 
+
+
+[[Titans]]
+

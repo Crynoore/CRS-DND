@@ -1,5 +1,6 @@
 go back to [[Story]]
 
+[[Episode 0 Prologue]]
 [[Caypolis]]
 Festival = Cleansing day
 

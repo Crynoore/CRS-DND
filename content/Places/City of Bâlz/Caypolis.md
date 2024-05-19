@@ -1,4 +1,4 @@
-go back to [[Settlements]]
+go back to [[Settlements of Bâlz]]
 - -is the start of the campaign
     
 - is a human city the is kinde (very) not friendly to other races

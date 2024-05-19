@@ -1,5 +1,5 @@
 go back to [[Books]]
-[[Jeremiah]]
+
 
 # Tale of The Titans
 by [[Jeremiah]]

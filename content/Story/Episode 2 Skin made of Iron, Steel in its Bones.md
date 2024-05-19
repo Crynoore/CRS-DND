@@ -1,5 +1,7 @@
 go back to [[Story]]
 
+[[Episode 1 Day of Cleansing]]
+
 when [[Garrick]] whent to go get the dragon he got in formed that a other guy (verry posh guy) 
 
 the party gows to follow the rich guy 
