@@ -24,6 +24,6 @@ hgs.
 
 [[Sikk's Lunch]].
 
-[[Wand of Smiles.]]
+[[Wand of Smiles]]
 
 

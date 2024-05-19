@@ -6,7 +6,7 @@ unused gods
 
 [[Halcyon]]: god of Might
 
-  
+
 
 used gods
 
@@ -19,4 +19,6 @@ used gods
 [[el rocko]]: god of Pebbles 
 
 [[Dasan]]: god of elemental water
+
+[[Babirusa]]: god from the [[Mullerism]] religion
 

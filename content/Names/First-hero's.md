@@ -1,6 +1,6 @@
 go back to [[Characters]]
 
-The great fearsome warrior [[Olvin]].
+The great fearsome warrior [[Olvinl]].
 
 The handsome young Bard [[Ulysses]].
 

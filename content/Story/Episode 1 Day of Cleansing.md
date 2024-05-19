@@ -59,7 +59,7 @@ overheard Maru explaining "soking maru wana"
 
 food was great, the fish was sweet with a srall taste of salt.
 I pray, yet my prayer does not get answered
-hear [[Sarah]] order chicken wings + [njerp](リ⋮╎∷!¡) gets a slummy
+hear [[Sarah]] order chicken wings + [njerp](リ⋮╎∷!¡) gets a [[Slummy]]
 Maru likes me?
 [[Sarah]] knows about maru wana
 "without my maru wana, I ain't nothing"
@@ -81,7 +81,7 @@ star air
 stone earth
 
 < the people might still have some "star rocks"
-< Dont krow where Joshua line twi the      (twi is some of drugs guys)
+< Dont know where Joshua line twi the      (twi is some of drugs guys)
 twi the guy has rock
 < granite, "tree rock's crystal mucky white + yellow (look)
  [[Maru]] in interested, twi doen't most money but exodic stuff

@@ -4,7 +4,7 @@ the year is 1567 a great evil wend over [[The First Continent]] with this most p
 but in the year 1592 a groep of adventures whet back to the first continent to cleanse the place 
 
 this party contaid  
-The great fearsome warrior [[Olvin]]
+The great fearsome warrior [[Olvinl]]
 
 The handsome young Bard [[Ulysses]]
 

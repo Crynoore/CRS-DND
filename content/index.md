@@ -14,11 +14,15 @@ This is a very cool wiki for the DnD trust
 
 [[Factions]]
 
+[[Religions]]
+
 [[Settlements]]
 
 [[Continents]]
 
 [[items]]
+
+[[Foods]]
 
 [[Materials]]
 
@@ -31,6 +35,6 @@ This is a very cool wiki for the DnD trust
 [[gameplay shit]]
 
 
-Version 1.0.0.8 of the wiki is out NOW
+Version 1.0.0.12 of the wiki is out NOW
 
 
