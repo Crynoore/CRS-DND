@@ -1,4 +1,4 @@
-go back to [[index]]
+go back to [[Continents]]
 ## [[Caypolis]]
 
 ## [[Ke rock is]]
@@ -6,6 +6,8 @@ go back to [[index]]
 ## [[Sopentis]]
 
 ## [[Gyrosma]]
+
+## [[Jorghedge]]
 
 ## [[Fley’s and Flay’s]]
 

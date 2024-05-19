@@ -1,6 +1,10 @@
 go back to [[Continents]]
 
 
+[[Settlements of Bâlz]]
+
+[[Wood Hill and more of Bâlz]]
+
 some history of the continent of balz  
 ![[Balz.png]]
 was a dwarven continan for the longest time 

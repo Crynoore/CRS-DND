@@ -4,37 +4,39 @@ title: Welcome to the CRS DnD
 
 This is a very cool wiki for the DnD trust
 
-[[Characters]]
+## [[Characters]]
 
-[[Gods]]
+## [[Gods]]
 
-[[Threat level]]
+## Beings
+### [[Dangers Beings]]
+### [[Neutral Beings]]
+## [[Story]]
 
-[[Story]]
+## [[Factions]]
 
-[[Factions]]
+## [[Religions]]
 
-[[Religions]]
+## [[Continents]]
 
-[[Settlements of Bâlz]]
+##### [[Settlements of Bâlz]]
+##### [[Wood Hill and more of Bâlz]]
 
-[[Continents]]
+## [[items]]
 
-[[items]]
+## [[Foods]]
 
-[[Foods]]
+## [[Materials]]
 
-[[Materials]]
+## [[Books]]
 
-[[Books]]
+## [[timeline]]
 
-[[timeline]]
+## [[playlist's]]
 
-[[playlist's]]
-
-[[gameplay shit]]
+## [[gameplay shit]]
 
 
-Version 1.0.0.12 of the wiki is out NOW
+Version 1.0.1.3 of the wiki is out NOW
 
 

@@ -20,7 +20,7 @@ I mean if your competition is a place called [[The Continent of Bâlz]], you don
 
 Also the dwarfs are not that happy that the humans have taken about 40% of their land for themselves.
 
-and i think I deserve a break after 15 years of combat, talking about combat i did not see [[Olvinl]] et or great event.
+and i think I deserve a break after 15 years of combat, talking about combat i did not see [[Olvin]] et or great event.
 
 I think that guy has the toughest time of us all, he needs to get some time to rest.
 
