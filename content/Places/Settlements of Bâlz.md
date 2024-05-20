@@ -1,4 +1,4 @@
-go back to [[Continents]]
+go back to [[The Continent of Bâlz]]
 ## [[Caypolis]]
 
 ## [[Ke rock is]]

@@ -1,3 +1,3 @@
-go back to [[index]]
+go back to [[The Continent of Bâlz]]
 
 [[Jorghedge]]
