@@ -20,10 +20,6 @@ This is a very cool wiki for the DnD trust
 
 [[Continents]]
 
-[[Settlements of Bâlz]]
-
-[[Wood Hill and more of Bâlz]]
-
 [[items]]
 
 [[Foods]]
