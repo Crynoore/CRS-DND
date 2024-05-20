@@ -19,7 +19,7 @@ This is a very cool wiki for the DnD trust
 
 ## [[Continents]]
 
-##### [[Settlements of Bâlz]]
+##### [[Settlements of Bâlzz]]
 ##### [[Wood Hill and more of Bâlz]]
 
 ## [[items]]
