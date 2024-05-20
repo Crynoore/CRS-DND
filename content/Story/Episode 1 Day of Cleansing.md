@@ -1,7 +1,7 @@
 go back to [[Story]]
 
 [[Episode 0 Prologue]]
-[[Caypolis]]
+[[Caypolise]]
 Festival = Cleansing day
 
 I arrive at closed gates -> lots of people (non human + homeless)

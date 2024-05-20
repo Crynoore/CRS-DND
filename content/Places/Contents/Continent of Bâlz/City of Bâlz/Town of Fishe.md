@@ -1,3 +1,3 @@
-go back to [[Settlements of Bâlz]]
+go back to [[Settlements of Bâlze]]
 
 has a  [[The Imperial Brotherhood]] spots

@@ -17,19 +17,19 @@ The next 25 or so years (year 1597) were spent praying to the Moonmaiden, cleani
 
 Until on a fateful night while praying to the [Moonmother](Selûne.md) she descended down from the skies and spoke to Garrick.
 
-“[[The continent of Bâlz]] is losing faith in me, the lady of silver. I command thee to go there and spread the word. In return I shall grant you a lunar blessing”
+“[[The Continent of Bâlze]] is losing faith in me, the lady of silver. I command thee to go there and spread the word. In return I shall grant you a lunar blessing”
 
 Without hesitation Garrick agreed and the pact was sealed.
 
 The next morning Garrick grabbed his things, said farewell to his brethren, his family and set out on a mission.
 
-After about a month of travel he arrived at Zhentil Keep where he met a sailor who he paid handsomely. This man brought him to [[The Continent of Bâlz]].
+After about a month of travel he arrived at Zhentil Keep where he met a sailor who he paid handsomely. This man brought him to [[The Continent of Bâlze]].
 
-Guided by the [Moonmaiden](Selûne.md) with wind in their sails they traveled southeast for about 2 years (year 1599) and made it Bâlz. They arrived hungry at a small port in the town of [[Eurgh]].
+Guided by the [Moonmaiden](Selûne.md) with wind in their sails they traveled southeast for about 2 years (year 1599) and made it Bâlz. They arrived hungry at a small port in the town of [[Eurghe]].
 
 The people there were unwelcoming and quite honestly quite sticky.
 
-They would not believe a single word of what Garrick had to say but Garrick was persistent and spent the next 38 years (year 1637) of his life converting the town of [[Eurgh]] to selunites.
+They would not believe a single word of what Garrick had to say but Garrick was persistent and spent the next 38 years (year 1637) of his life converting the town of [[Eurghe]] to selunites.
 
 After he had established his goals there he decided to go into a deep meditation.
 
@@ -45,21 +45,21 @@ They were an old bunch of folk who still believed in Helm (yuck so 1205).
 
 However they did offer him a boat ride to the desert (they really just wanted to get rid of Garrick).
 
-Once in the desert he was told to head west towards the town of [[Gyrosma]]. (year 1639)
+Once in the desert he was told to head west towards the town of [[Gyrosmae]]. (year 1639)
 
 After about a day's travel and total dehydration he arrived and was met with a joyful bunch of people.
 
 They gave him water and some food and listened to his tales.
 
-Years passed (45) (year 1684) and he established a chapel in the center of [[Gyrosma]].
+Years passed (45) (year 1684) and he established a chapel in the center of [[Gyrosmae]].
 
 People would visit to hear of the lady of silver and pray to her.
 
-But that wasn’t enough, on another fateful night [[Selûne]] came to him again and spoke of a town called [[Caypolis]] who he was told had no beliefs.
+But that wasn’t enough, on another fateful night [[Selûne]] came to him again and spoke of a town called [[Caypolise]] who he was told had no beliefs.
 
 It would be his greatest challenge yet but of course he accepted (such a simp).
 
-He spoke to the people of [[Gyrosma]] about his new goal, some were excited, others saddened by the news.
+He spoke to the people of [[Gyrosmae]] about his new goal, some were excited, others saddened by the news.
 
 That same evening he set out on his journey, the moonlight shining upon him.
 
@@ -67,6 +67,6 @@ But as he was about to head out the gate the town’s blacksmith walked up to hi
 
 He thanked the man and headed off. Along the way he met many people and visited plenty of villages yet he could not stay long, he had a mission.
 
-It took him approximately 3 years but finally in the distance he could see the wall surrounding [[Caypolis]]…
+It took him approximately 3 years but finally in the distance he could see the wall surrounding [[Caypolise]]…
 
 **

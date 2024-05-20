@@ -1,9 +1,9 @@
 go back to [[Continents]]
 
 
-[[Settlements of Bâlz]]
+[[Settlements of Bâlze]]
 
-[[Wood Hill and more of Bâlz]]
+[[Wood Hill and more of Bâlze]]
 
 some history of the continent of balz  
 ![[Balz.png]]

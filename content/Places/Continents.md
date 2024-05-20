@@ -2,7 +2,7 @@ go back to [[index]]
 
 
 
-[[The Continent of Bâlz]]
+[[The Continent of Bâlze]]
 
 [[The First Continent]]
 
