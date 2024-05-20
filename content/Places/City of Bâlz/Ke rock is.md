@@ -1,4 +1,4 @@
-go back to [[Settlements of Bâlzz]]
+go back to [[Settlements of Bâlz]]
 - [im am a dwarf and im digging a hole](https://www.youtube.com/watch?v=VwVL-2GR7Qw&ab_channel=WindRose-Topic) 
     
 - very rich

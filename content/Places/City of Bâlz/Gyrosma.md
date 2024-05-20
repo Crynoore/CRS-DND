@@ -1,4 +1,4 @@
-go back to [[Settlements of Bâlzz]]
+go back to [[Settlements of Bâlz]]
 
 - Their belief in Selûne goes way back to a time where the Netheril often traded goods with the town of Gytosma
     

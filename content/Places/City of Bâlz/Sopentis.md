@@ -1,4 +1,4 @@
-go back to [[Settlements of Bâlzz]]
+go back to [[Settlements of Bâlz]]
 
 - very diverse population 
     

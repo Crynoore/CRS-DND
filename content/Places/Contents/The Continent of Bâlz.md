@@ -1,7 +1,7 @@
 go back to [[Continents]]
 
 
-[[Settlements of Bâlzz]]
+[[Settlements of Bâlz]]
 
 [[Wood Hill and more of Bâlz]]
 

@@ -19,7 +19,7 @@ speaks fondly of their soothing sound of experimental, genre bending (mostly pos
 
 Music they'll play to anything with ears. 
 
-They're also known for their famous plant “maru-wana” which let's you experience the world like mature does: just chilling and vibing, for all of eternity. Not long ago Maru received a letter from one “Master oogwa” who wants to receive some maru-wana to become one with nature. However this eternal tortle realized they used up all the maru-wana in the whole continent. So they must search for more and find this mysterious “Master Oogwa”
+They're also known for their famous plant “maru-wana” which let's you experience the world like mature does: just chilling and vibing, for all of eternity. Not long ago Maru received a letter from one “[[Master Ugwa]]” who wants to receive some maru-wana to become one with nature. However this eternal tortle realized they used up all the maru-wana in the whole continent. So they must search for more and find this mysterious “[[Master Ugwa]]”
 
   
 
