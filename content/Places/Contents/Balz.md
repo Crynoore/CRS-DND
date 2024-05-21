@@ -1,8 +1,8 @@
 go back to [[Continents]]
 
-[[Citys of Bâlz]]
+[[Citys of Balz]]
 
-[[Places in Bâlz]]
+[[Places in Balz]]
 
 was a dwarven continan for the longest time 
 

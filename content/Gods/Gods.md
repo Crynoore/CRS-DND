@@ -10,7 +10,7 @@ unused gods
 
 used gods
 
-[[Selûne]]: god of the moon
+[[Selune]]: god of the moon
 
 [[Solaris]]: god of the sun
 

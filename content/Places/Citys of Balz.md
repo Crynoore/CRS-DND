@@ -1,4 +1,4 @@
-go back to [[Bâlz]]
+go back to [[Balz]]
 
 [[Caypolis]]
 

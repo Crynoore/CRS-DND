@@ -3,7 +3,7 @@ go back to [[green-and-scales]]
 ![[6. Garrick Salutes the moon.png]]
 
 
-This is the tale of a wise loxodon man who devoted his life to the Godess [[Selûne]].
+This is the tale of a wise loxodon man who devoted his life to the Godess [[Selune]].
 
   
 
@@ -15,7 +15,7 @@ He had been living there with his mother, father and his younger brother Kemahl.
 
 The next 25 or so years (year 1597) were spent praying to the Moonmaiden, cleaning the chapels and preaching to the people of Hortsvile.
 
-Until on a fateful night while praying to the [Moonmother](Selûne.md) she descended down from the skies and spoke to Garrick.
+Until on a fateful night while praying to the [Moonmother](Selune.md) she descended down from the skies and spoke to Garrick.
 
 “[[The Continent of Bâlz]] is losing faith in me, the lady of silver. I command thee to go there and spread the word. In return I shall grant you a lunar blessing”
 
@@ -25,7 +25,7 @@ The next morning Garrick grabbed his things, said farewell to his brethren, his 
 
 After about a month of travel he arrived at Zhentil Keep where he met a sailor who he paid handsomely. This man brought him to [[The Continent of Bâlz]].
 
-Guided by the [Moonmaiden](Selûne.md) with wind in their sails they traveled southeast for about 2 years (year 1599) and made it Bâlz. They arrived hungry at a small port in the town of [[Eurgh]].
+Guided by the [Moonmaiden](Selune.md) with wind in their sails they traveled southeast for about 2 years (year 1599) and made it Bâlz. They arrived hungry at a small port in the town of [[Eurgh]].
 
 The people there were unwelcoming and quite honestly quite sticky.
 
@@ -55,7 +55,7 @@ Years passed (45) (year 1684) and he established a chapel in the center of [[Gyr
 
 People would visit to hear of the lady of silver and pray to her.
 
-But that wasn’t enough, on another fateful night [[Selûne]] came to him again and spoke of a town called [[Caypolis]] who he was told had no beliefs.
+But that wasn’t enough, on another fateful night [[Selune]] came to him again and spoke of a town called [[Caypolis]] who he was told had no beliefs.
 
 It would be his greatest challenge yet but of course he accepted (such a simp).
 

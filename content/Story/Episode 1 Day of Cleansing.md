@@ -28,7 +28,7 @@ In an act of insanity I wrote “welcome” on the wall with shit
 
 ~The others are speaking in the alleys 
 
-I used my magical hand to retrieve the keys of my cellblock after which I begged [[Selûne]] for forgiveness 
+I used my magical hand to retrieve the keys of my cellblock after which I begged [[Selune]] for forgiveness 
 
 I then enjoyed Maru’s tunes for a bit
 
