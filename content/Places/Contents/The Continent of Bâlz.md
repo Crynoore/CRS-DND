@@ -4,6 +4,8 @@ go back to [[Continents]]
 
 [[Wood's, Hill's and more of Bâlz]]
 
+[[Galiminus]]
+
 
 some history of the continent of balz  
 ![[Balz.png]]
