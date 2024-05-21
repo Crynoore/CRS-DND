@@ -1,6 +1,6 @@
-go back to [[City's of Bâlz]]
+go back to [[Citys of Bâlz]]
 
-Go back to [[City's of Bâlz]]
+Go back to [[Citys of Bâlz]]
 
 has probably the biggest gold reserve on Bâlz
 

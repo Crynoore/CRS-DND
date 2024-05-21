@@ -1,4 +1,4 @@
-go back to [[The Continent of Bâlz]]
+go back to [[Bâlz]]
 
 [[Caypolis]]
 

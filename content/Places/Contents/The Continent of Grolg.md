@@ -1,3 +1,3 @@
-[[City's of Bâlz]]
+[[Citys of Bâlz]]
 
 [[Wood's, Hill's and more of Bâlz]]
