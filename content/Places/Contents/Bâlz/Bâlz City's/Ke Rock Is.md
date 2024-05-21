@@ -1,5 +1,7 @@
 go back to [[City's of Bâlz]]
 
+Go back to [[FIX]]
+
 has probably the biggest gold reserve on Bâlz
 
 has a rotating king system with 7 kings and 1 queen 

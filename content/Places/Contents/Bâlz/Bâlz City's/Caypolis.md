@@ -1,5 +1,7 @@
 go back to [[City's of Bâlz]]
 
+Go back to [[FIX]]
+
 is the start of the campaign
 
 is a human city the is kinde (very) not friendly to other races
