@@ -1,6 +1,7 @@
 go back to [[Continents]]
 
-[[City's of Bâlz]]
+[[FIX]]
+
 
 [[Wood's, Hill's and more of Bâlz]]
 

@@ -1,4 +1,4 @@
-go back to [[index]]
+go back to [[The Continent of Bâlz]]
 
 [[Caypolis]]
 
@@ -22,4 +22,4 @@ go back to [[index]]
 
 [[Town of Fish]]
 
-[[City's of Bâlz]]
+
