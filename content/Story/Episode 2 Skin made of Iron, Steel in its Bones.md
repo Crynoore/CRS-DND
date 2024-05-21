@@ -9,7 +9,7 @@ the party gows to follow the rich guy 
 
 the rich guy and is goons go and sitt next to the road
 
-[nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) and [[Aronim-e]] have a interesting conversaton with no word 
+[nerup](Njirp.md) and [[Aronim-e]] have a interesting conversaton with no word 
 
 while [[Maru]] is distracted with the music 
 
@@ -17,7 +17,7 @@ sarha cast smoke field and the rich man is in panic to and alerts the gaurts 
 
 maro steals the key to the cage 
 
-after this [nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) jump up the cage and yells THE FACK YOU MEAN
+after this [nerup](Njirp.md) jump up the cage and yells THE FACK YOU MEAN
 
 after this [[Aronim-e]] spits acid and opens the cage 
 
@@ -43,13 +43,13 @@ thay find a book about a El rocko
 
 [[Garrick]] teact nerup 5 new words 
 
-[[Sarah]] and [nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) make some light when [[Sarah]] dus this some strange magic happened 
+[[Sarah]] and [nerup](Njirp.md) make some light when [[Sarah]] dus this some strange magic happened 
 
 and then we go to the cave  
 
 at the start of the cave thay find a dead body (rats are eating the body)
 
-[nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) trys to investigate the rats 
+[nerup](Njirp.md) trys to investigate the rats 
 
 (he trys to get eat rat)
 
@@ -87,7 +87,7 @@ after this  the hount splits in 3
 
 the metal hount runs at [[aronim-e]] and misses him by just a bit
 
-[nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) trow the rat he collectend awhale a go to district 
+[nerup](Njirp.md) trow the rat he collectend awhale a go to district 
 
 the 2 other ones 
 
@@ -101,13 +101,13 @@ after the we looted the hound we found a -cog of metal mutt-
 
 we leave the cave (and [[Aronim-e]] and [[Maru]] take a piss at the end of the cave )to go back to the [old man](jonas-guan) and tell him how we bestet the beast 
 
-the [[Maru]] start talking dwarfish to the old (lukhet hamergorg) after this the [old man](jonas-guan) knows about the [[Maru]] and thels him about the whereabouts of[[Joshua]]
+the [[Maru]] start talking dwarfish to the old (lukhet hamergorg) after this the [old man](jonas-guan) knows about the [[Maru]] and thels him about the whereabouts of [[Joshua]]
 
 (shere altamers momant)
 
-the mark on the cog of metal mutt was related to the moradlin (fearun god dwarfs)
+the mark on the cog of metal mutt was related to the [[Moradlin]] (fearun god dwarfs)
 
-[nerup](content/Names/Green%20and%20scales/リ⋮╎∷!¡.md) pogs out about the rainbow
+[nerup](Njirp.md) pogs out about the rainbow
 
 we see a shack in the distance
 

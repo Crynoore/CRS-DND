@@ -3,7 +3,13 @@ go back to [[index]]
 
 Titans are the creators of land
 
+book [[Tale of The Titans]]
+
+[[Balgozel]]
+
 [[Eternus]]
+
+[[Fraerusug]]
 
 [[Goliathor]]
 
@@ -12,6 +18,7 @@ Titans are the creators of land
 [[Titranuvigus]]
 
 [[Volctusu]]
+
 
 
 

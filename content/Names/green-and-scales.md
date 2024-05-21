@@ -1,4 +1,4 @@
-go back to [[index]]
+go back to [[Characters]]
 
 the green and scales party consists of 5 members
 
@@ -6,5 +6,5 @@ the green and scales party consists of 5 members
 [[Aronim-e]]
 [[Maru]]
 [[Sarah]]
-[[リ⋮╎∷!¡]]
+[[Njirp]]
 

@@ -8,7 +8,7 @@ go back to [[index]]
 
 [[The Continent of Grolg]]
 
-[[The Continent of Faerûn]]
+[[Faerun]]
 
 [[The Titan Lands]]
 

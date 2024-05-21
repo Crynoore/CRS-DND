@@ -22,3 +22,5 @@ used gods
 
 [[Babirusa]]: god from the [[Mullerism]] religion
 
+[[Moradlin]]
+

@@ -1,3 +1,5 @@
+リ⋮╎∷!¡
+
 go back to [[green-and-scales]]
 ![[Screenshot (633).png]]
 Backstory

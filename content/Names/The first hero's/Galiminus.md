@@ -12,7 +12,7 @@ But now that I have seen all of the first continent and the discovery of other l
 
   
 
-i'll start with [[The Continent of Faerûn]]
+i'll start with [[Faerun]]
 
 it look to be the most interesting of the ones we know currently
 
