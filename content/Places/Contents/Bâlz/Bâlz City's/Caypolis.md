@@ -1,6 +1,6 @@
 go back to [[City's of Bâlz]]
 
-Go back to [[FIX]]
+Go back to [[City's of Bâlz]]
 
 is the start of the campaign
 

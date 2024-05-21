@@ -12,4 +12,3 @@ go back to [[index]]
 
 [[Outer Site Island's]]
 
-[[Wood's, Hill's and more of Bâlz]]
