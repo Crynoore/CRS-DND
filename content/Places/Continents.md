@@ -8,5 +8,5 @@ go back to [[index]]
 
 [[The Continent of Faerûn]]
 
-[[The Titan lands]]
+[[The Titan Lands]]
 
