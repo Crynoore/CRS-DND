@@ -12,6 +12,8 @@ This is a very cool wiki for the DnD trust
 
 [[Neutral Beings]]
 
+[[Races]]
+
 [[Story]]
 
 [[Factions]]

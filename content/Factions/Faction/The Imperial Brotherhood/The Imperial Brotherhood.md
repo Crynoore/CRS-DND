@@ -5,6 +5,9 @@ The Imperial Brotherhood started in the year 1574 after a guy name [[Grasa]] saw
 
 since 1589 if you would want to join the brotherhood you would need it fill in the [[The Imperial Brotherhood Contract]]
 
+
+
+
 [[Brotherhood Initiate]]
 [[Brotherhood Empiric]]
 [[Brotherhood Vanguards]]

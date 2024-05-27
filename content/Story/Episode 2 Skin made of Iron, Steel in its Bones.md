@@ -59,7 +59,7 @@ then thay go deeper into the cave
 
 (dean luner shit)
 
-[[Maru]] hotbox  cave story 
+[[Maru]] hotbox cave story 
 
 we gat attack by a goblin 
 
