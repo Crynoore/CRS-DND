@@ -9,7 +9,6 @@ A Titanborn is a spawn of a Titan, and therefor are loyal to that Titan with the
 shaped by the ground that the Titan holds, making them look vastly different form another 
 
 if a Titan would be born on [[Leviathanis]] would likely have hast corals on them.
-
 while if he was born on [[Volctusu]] would have a more harder stone/ obsidian look
 
 ## Titanborn Traits
@@ -37,7 +36,7 @@ can make Titanic noises that resemble a language
 Choose one type of Titan from the Titan Ancestry table. some thing would be different
 the strange of this ability will increase on level 1,5,11,17
 
-| Titan Environment | Ability                           |                                                                                       | lvl 1          | lvl 5                  | lvl 11                 | lvl 17                 |
+| Titan Environment | Ability                           |                                                                                       | range<br>lvl 1 | range<br>lvl 5         | range<br>lvl 11        | range<br>lvl 17        |
 | ----------------- | --------------------------------- | ------------------------------------------------------------------------------------- | -------------- | ---------------------- | ---------------------- | ---------------------- |
 | Plane's           | can make any Environment grassy   | +2 to hit for anyone in the Environment                                               | 20ft +2 to hit | 25ft   +2 to hit       | 30ft    +3 to hit      | 40ft    +3 to hit      |
 | Tiga/ Tundra      | can make any Environment Icey     | when enemys are in the Environment they get a d(X) - to dmg                           | 20ft 1d4       | 20ft   2d4             | 25ft   2d6             | 40ft   2d8             |
