@@ -1,6 +1,6 @@
 go back to [[Story]]
 
-[[Episode 1 Day of Cleansing]]
+[[CRS Episode 1 Day of Cleansing]]
 
 when [[Garrick]] whent to go get the dragon he got in formed that a other guy (verry posh guy) 
 
@@ -167,4 +167,4 @@ They learn about the mark on the cog being related to the Moradlin, the Fearun g
 Nerup mentions a rainbow, and they see a shack in the distance.
 
 **
-[[Episode 3 Joshua Is that you]]
+[[CRS Episode 3 Joshua Is that you]]

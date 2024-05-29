@@ -12,3 +12,5 @@ go back to [[index]]
 
 [[The Titan Lands]]
 
+[[Everstone]]
+

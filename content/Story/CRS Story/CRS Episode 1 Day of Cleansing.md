@@ -1,6 +1,6 @@
 go back to [[Story]]
 
-[[Episode 0 Prologue]]
+[[CRS Episode 0 Prologue]]
 [[Caypolis]]
 Festival = Cleansing day
 
@@ -111,4 +111,4 @@ el rocko- god of rocks and pebbles
 we defeated and buried 2x Wolfs
 Hom
 
-[[Episode 2 Skin made of Iron, Steel in its Bones]]
+[[CRS Episode 2 Skin made of Iron, Steel in its Bones]]
