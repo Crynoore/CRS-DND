@@ -18,6 +18,11 @@ while if he was born on [[Volctusu]] would have a more harder stone/ obsidian lo
 +2 Constitution 
 you are one with the Nature and know all that is to do with it (professed in Nature checks)
 
+#### Natural Armor
+
+being made form mostly just raw material's you are more resisted to most physical attacks  
+10+dex
+
 #### Age
 
 they become immensely old not have any problem with anything for a good 1000 years.
