@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "CRS DND",
+    pageTitle: "CryBrew DnD",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

@@ -28,6 +28,8 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 
 [[Materials and Ingredients]]
 
+[[Spells]]
+
 [[Books]]
 
 [[timeline]]
@@ -37,6 +39,6 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 [[gameplay shit]]
 
 
-Version 1.0.2.42 of the wiki is out NOW
+Version 1.0.2.44 of the wiki is out NOW
 
 
