@@ -6,7 +6,7 @@ Borromean Rings.
 
 [[Coin of Absolutes]].
 
-Fire Ant Nectar.
+[[Fire Ant Nectar]].
 
 Floating Wisp.
 
@@ -18,9 +18,9 @@ Floating Wisp.
 
 Rat Trophy.
 
-re.
+[[Red Berry Extract]]
 
-hgs.
+[[Shorea Flower]]
 
 [[Sikk's Lunch]].
 

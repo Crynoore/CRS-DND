@@ -15,7 +15,7 @@ Any threat to multiple cities.
 ## Catastrophe Level Threat
 Any threat to a city and its people.
 
-[[Bober]]
+[[Eater of Worlds]]
 ## Elevated Level Threat
 
 Any threat to a large number of people.

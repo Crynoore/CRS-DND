@@ -13,3 +13,11 @@ go back to [[Ilnesses of this world]]
 Infection can be cured with lesser restoration cast with a spell slot of 2nd level or higher or by amputating the infected area with a DC 15 Medicine check While wielding a weapon that deals slashing damage.
 
 Antidote: The Red Berry**
+
+''cured'' version
+
+after consuming [[Red Berry Extract]]
+
+you will not die 
+
+you just get a disadvantage when you roll Initiative

@@ -1,8 +1,8 @@
 ---
-title: Welcome to the CRS DnD
+title: Welcome to the CryBerw DnD Wiki
 ---
 
-This is a very cool wiki for the DnD trust
+mostly adds stuff, changes some small things about dnd lore. and all the thing that are difference and or new you can find in here. there are also story's you can read the follow some Inhabitants of the world.
 
 [[Characters]]
 
@@ -26,7 +26,7 @@ This is a very cool wiki for the DnD trust
 
 [[Foods]]
 
-[[Materials]]
+[[Materials and Ingredients]]
 
 [[Books]]
 
@@ -37,6 +37,6 @@ This is a very cool wiki for the DnD trust
 [[gameplay shit]]
 
 
-Version 1.0.2.39 of the wiki is out NOW
+Version 1.0.2.42 of the wiki is out NOW
 
 
