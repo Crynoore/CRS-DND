@@ -1,4 +1,4 @@
-[[index]]
+go back to [[index]]
 
 [[Barbarian]]
 
@@ -16,8 +16,6 @@
 
 [[Ranger]]
 
-[[Ranger]]
-
 [[Rogue]]
 
 [[Sorcerer]]
@@ -25,4 +23,6 @@
 [[Warlock]]
 
 [[Wizard]]
+
+[[Summener]]
 

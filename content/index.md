@@ -41,6 +41,6 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 [[gameplay shit]]
 
 
-Version 1.0.3.0 of the wiki is out NOW
+Version 1.0.3.1 of the wiki is out NOW
 
 

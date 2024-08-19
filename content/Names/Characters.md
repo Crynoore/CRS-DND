@@ -4,6 +4,8 @@ go back to [[index]]
 
 [[the Tale's of Titan's]]
 
+[[Dean and D]]
+
 [[First-hero's]]
 
 [[NPC's]]
