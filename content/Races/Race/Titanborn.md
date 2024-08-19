@@ -27,6 +27,11 @@ being made form mostly just raw material's you are more resisted to most physica
 
 they become immensely old not have any problem with anything for a good 1000 years.
 but after a while they will get slower and slower eventually become one with the land again
+
+#### Extra stuff
+
+can regrow from as long as a small part is still intact 
+
 #### Size
 
 they are large and the older they get the bigger they are 
@@ -40,6 +45,8 @@ can make Titanic noises that resemble a language
 
 Choose one type of Titan from the Titan Ancestry table. some thing would be different
 the strange of this ability will increase on level 1,5,11,17
+
+This is a Bonus action to perform
 
 | Titan Environment | Ability                                                       |                                                                                       | lvl 1          | lvl 5                  | lvl 11                 | lvl 17                 |
 | ----------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------- | ---------------------- | ---------------------- | ---------------------- |

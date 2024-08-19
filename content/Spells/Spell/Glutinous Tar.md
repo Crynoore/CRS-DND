@@ -1,6 +1,6 @@
 go back to [[Spells]]
 
-**Casting Time:** 1 bonus action (if cast cant be cast for the next 4 turns)
+**Casting Time:** 1 bonus action
 **Range:** 120 feet
 **Components:** V, S
 **Duration:** Instantaneous

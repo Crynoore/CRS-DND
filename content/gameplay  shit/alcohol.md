@@ -15,6 +15,7 @@ if you hit 5 roll for constituson
 (elfs 5)
 (dragon borns 6)
 (echo ∞)
+(titanbron ∞)
 (gone 2)
 (orc 7)
 (tiefling 8)

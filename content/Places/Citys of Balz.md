@@ -22,4 +22,6 @@ go back to [[Balz]]
 
 [[Town of Fish]]
 
+[[Imperial Brotherhood Stronghold]]
+
 

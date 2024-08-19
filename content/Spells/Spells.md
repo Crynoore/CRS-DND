@@ -10,3 +10,11 @@ all of them
 [[Empty Vacuum]]
 
 [[Cosmic Nebula]]
+
+[[Visual meter]]
+
+[[Summer rizler]]
+
+[[Depression talk]]
+
+[[luck of the hollows]]

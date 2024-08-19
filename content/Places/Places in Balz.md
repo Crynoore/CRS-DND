@@ -12,3 +12,10 @@ go back to [[Balz]]
 
 [[Outer Site Island's]]
 
+[[Calamity Canion]]
+
+[[hollow Sword's Hill]]
+
+[[glass oasis]]
+
+

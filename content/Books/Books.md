@@ -6,3 +6,4 @@ go back to [[index]]
 
 [[Tale of The Titans]]
 
+[[Tale of the Impure King]]

@@ -23,14 +23,14 @@
 		{"id":"903e1f8f02d8cec0","type":"text","text":"Halfling","x":123,"y":507,"width":250,"height":60},
 		{"id":"ad6f1a3217e2e8ca","type":"text","text":"Monstrosities","x":605,"y":-80,"width":250,"height":90},
 		{"id":"8d17cedbe6fbb927","type":"text","text":"Beasts","x":900,"y":-46,"width":160,"height":90},
-		{"id":"bcf848769df0bd89","type":"text","text":"Dwarfs","x":520,"y":360,"width":140,"height":60},
 		{"id":"7816565b6d42122c","type":"text","text":"TitanBorn's","x":510,"y":232,"width":160,"height":58},
 		{"id":"bdcb8ece69c679f5","type":"text","text":"","x":1137,"y":-465,"width":50,"height":50},
 		{"id":"e29aac58a323888f","type":"text","text":"miscellaneous","x":1232,"y":-345,"width":250,"height":60},
 		{"id":"4097b825ba42b340","type":"text","text":"Kalashtar","x":1428,"y":-151,"width":170,"height":60},
 		{"id":"e559f1ca6a520d93","type":"text","text":" Warforged","x":1678,"y":-405,"width":165,"height":60},
 		{"id":"3b068a24e2838054","type":"text","text":"Autognome","x":1678,"y":-315,"width":165,"height":60},
-		{"id":"9ca425f43a5b87d9","type":"text","text":"Reborn","x":1187,"y":-151,"width":170,"height":60}
+		{"id":"9ca425f43a5b87d9","type":"text","text":"Reborn","x":1187,"y":-151,"width":170,"height":60},
+		{"id":"bcf848769df0bd89","type":"text","text":"Dwarfs","x":590,"y":390,"width":140,"height":60}
 	],
 	"edges":[
 		{"id":"416b6039834de5eb","fromNode":"9ed4ceafd15e11ee","fromSide":"bottom","toNode":"2177f01ab5276157","toSide":"top"},
