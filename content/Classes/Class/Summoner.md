@@ -9,7 +9,7 @@ _You must have a constitution score of 13 or higher in order to multiclass in or
 | Level        | Proficiency Bonus | Features                                  | Cantrips Known | Summon Slots | Active Summon |
 | 1st          | +2                | Tier 1 Summons                            | 2              | 2            | 1             |
 | 2nd          | +2                |                                           | 2              | 2            | 2             |
-| 3rd          | +2                |                                           | 2              | 3            | 2             |
+| 3rd          | +2                | Idk thing                                 | 2              | 3            | 2             |
 | 4th          | +2                | Ability Score Improvement, Tier 2 Summons | 3              | 3            | 3             |
 | 5th          | +3                |                                           | 3              | 3            | 3             |
 | 6th          | +3                |                                           | 3              | 4            | 4             |
@@ -27,7 +27,7 @@ _You must have a constitution score of 13 or higher in order to multiclass in or
 | 18th         | +6                |                                           | 4              | 9            | 11            |
 | 19th         | +6                | Ability Score Improvement, Tier 8 Summons | 4              | 9            | 11            |
 | 20th         | +6                |                                           | 4              | 10           | 12            |
-# Class Features
+## Class Features
 
 As a Summoner, you gain the following class features.
 
@@ -55,12 +55,25 @@ You start with the following equipment, in addition to the equipment granted by 
 - Leather armor, any simple weapon, and two daggers
 
 
-#### Your Summon
+### Your Summon
 
 - The Summoner table Shows how many Summons you can have Active and how many summons you know how to summon you can chose from the [[summoner summons]]. summoning a creature cost 2 action's.
-- when you have summoned a creature of your choice it will do its turn at the same time as you (you can chose if the summon go's before you or after) and depending on what summon you use it will attack, use magic or look pretty  
+- when you have summoned a creature of your choice it will do its turn at the same time as you (you can chose if the summon go's before you or after) and depending on what summon you use, it will attack, use magic or look pretty  
 - when you level up you can change your summons to any summon you can get (or when the dm says you can do it. like i care)
 
-##### Cantrips
+### Cantrips
 
 At 1st level, you know two cantrips of your choice from the [[Summoner cantrips list]]. You learn additional Summoner cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Summoner table.
+
+## idk thing
+what Kinde of summoner are you
+
+##### War Leader
+- all Summons get +1 to the rolls
+- you can add 1d4 dmg to a attack of a summon 3 times per rest
+##### Shepherd
+- all summons get the ability to use half there hp to heal someone for 1d6+1 (only counts for summons with hp)
+##### Whip something
+- when something is attack with a whip all summons get +2 to roll
+##### Staff fanatic
+- when using a staff (blank (idk what yet))
