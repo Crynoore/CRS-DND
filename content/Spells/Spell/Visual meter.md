@@ -1,9 +1,12 @@
 go back to [[Spells]]
 
-**Casting Time:** Bonus Action
-**Range:** self
-**Components:** V,S
-**Duration:** 1 hour
+Visual meter
+	**Casting Time:** Bonus Action
+	**Range:** self
+	**Components:** V,S
+	**Duration:** 1 hour
+
+cantrip
 
 you get a visual meter
 

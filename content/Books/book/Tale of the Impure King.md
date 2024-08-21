@@ -30,5 +30,5 @@ but before all the hope was lost one of the …….. priest arrived he rust in a
 
 (what realy happened)
 
-the priest did slay the beast, but not as fast and also kinde did not kill its heard he just locket the heard in one of the temple.
+the priest did slay the beast, but not really he just severt it from its heart and locket it in one of the temple. 
 

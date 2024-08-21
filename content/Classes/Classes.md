@@ -24,5 +24,5 @@ go back to [[index]]
 
 [[Wizard]]
 
-[[Summener]]
+[[Summoner]]
 

@@ -4,6 +4,18 @@ title: Welcome to the CryBerw DnD Wiki
 
 mostly adds stuff, changes some small things about dnd lore. and all the thing that are difference and or new you can find in here. there are also story's you can read the follow some Inhabitants of the world.
 
+### make your guy
+
+[[Classes]]
+
+[[Races]]
+
+[[Spells]]
+
+[[Weapons]]
+
+### Lore and more
+
 [[Characters]]
 
 [[Gods]]
@@ -11,10 +23,6 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 [[Dangers Beings]]
 
 [[Neutral Beings]]
-
-[[Races]]
-
-[[Classes]]
 
 [[Story]]
 
@@ -29,8 +37,6 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 [[Foods]]
 
 [[Materials and Ingredients]]
-
-[[Spells]]
 
 [[Books]]
 

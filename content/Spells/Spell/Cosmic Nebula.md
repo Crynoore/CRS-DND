@@ -1,12 +1,12 @@
 go back to [[Spells]]
 # WIP
 
-
-**Casting Time:** 1 action  
-**Range:** 120 feet
-**Target:** A point within range
-**Components:** V, S
-**Duration:** Up to 1 hour
+Cosmic Nebula
+	**Casting Time:** 1 action  
+	**Range:** 120 feet
+	**Target:** A point within range
+	**Components:** V, S
+	**Duration:** Up to 1 hour
 
 summons a nebula the contains a lot of different mistrials.
 deals 1d6 dmg 

@@ -1,5 +1,3 @@
-go back to [[Citys of Balz]]
-
 Go back to [[Citys of Balz]]
 
 is the start of the campaign
