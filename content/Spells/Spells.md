@@ -26,3 +26,9 @@ astronomy
 [[luck of the hollows]]
 
 [[Blood Sacrifice]]
+
+Summons
+
+[[summoner summons]]
+
+[[Summoner cantrips list]]
