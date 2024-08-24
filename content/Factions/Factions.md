@@ -1,7 +1,7 @@
 go back to [[index]]
 
-[[Hunter's Enclave]]
+- [[Hunter's Enclave]]
 
-[[The Guild of Science]]
+- [[The Guild of Science]]
 
-[[The Imperial Brotherhood]]
+- [[The Imperial Brotherhood]]

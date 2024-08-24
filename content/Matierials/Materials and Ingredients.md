@@ -2,10 +2,9 @@ go back to [[index]]
 
 Materials
 
-[[cosmic brass]]
+- [[cosmic brass]]
 
 Ingredients
 
-[[Shorea Flower]]
-
-[[Bone srhooms]]
+- [[Shorea Flower]]
+- [[Bone srhooms]]

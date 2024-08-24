@@ -1,27 +1,16 @@
 go back to [[Balz]]
 
-[[Caypolis]]
-
-[[Eurgh]]
-
-[[Fley]]
-`
-[[Flay]]
-
-[[New Fley]]
-
-[[New Flay]]
-
-[[Gyrosma]]
-
-[[Jorghedge]]
-
-[[Ke Rock Is]]
-
-[[Sopentis]]
-
-[[Town of Fish]]
-
-[[Imperial Brotherhood Stronghold]]
+- [[Caypolis]]
+- [[Eurgh]]
+- [[Fley]]
+- [[Flay]]
+- [[New Fley]]
+- [[New Flay]]
+- [[Gyrosma]]
+- [[Jorghedge]]
+- [[Ke Rock Is]]
+- [[Sopentis]]
+- [[Town of Fish]]
+- [[Imperial Brotherhood Stronghold]]
 
 

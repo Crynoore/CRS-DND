@@ -1,13 +1,8 @@
 go back to [[Characters]]
 
-[[Yngwie]]
-
-[[Iulfic]]
-
-[[lia]]
-
-[[Elowiese]]
-
-[[Nicola Alaric]]
-
-[[Dergn]]
+- [[Yngwie]]
+- [[Iulfic]]
+- [[lia]]
+- [[Elowiese]]
+- [[Nicola Alaric]]
+- [[Dergn]]

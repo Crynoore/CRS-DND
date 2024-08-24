@@ -1,16 +1,12 @@
 go back to [[index]]
 
-Books
-[[Book of Alchemy]]
+### Books
 
-[[Folklore and Myths]]
+- [[Book of Alchemy]]
+- [[Folklore and Myths]]
+- [[Tale of The Titans]]
+- [[Tale of the Impure King]]
 
-[[Tale of The Titans]]
+### Page's (LORE)
 
-[[Tale of the Impure King]]
-
-
-
-Page's (LORE)
-
-[[Sir. Arnog's Log]]
+- [[Sir. Arnog's Log]]

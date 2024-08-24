@@ -8,11 +8,11 @@ since 1589 if you would want to join the brotherhood you would need it fill in t
 
 
 
-[[Brotherhood Initiate]]
-[[Brotherhood Empiric]]
-[[Brotherhood Vanguards]]
-[[Brotherhood Sentinel]]
-[[Brotherhood Sage]]
-[[Brotherhood Knight]]
-[[Brotherhood Elder]]
+- [[Brotherhood Initiate]]
+- [[Brotherhood Empiric]]
+- [[Brotherhood Vanguards]]
+- [[Brotherhood Sentinel]]
+- [[Brotherhood Sage]]
+- [[Brotherhood Knight]]
+- [[Brotherhood Elder]]
 ![[Screenshot (637).png]]![[The Imperial Brotherhood.png]]

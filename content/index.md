@@ -6,47 +6,30 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 
 ### make your guy
 
-[[Classes]]
-
-[[Races]]
-
-[[Spells]]
-
-[[Weapons]]
+- [[Classes]]
+- [[Races]]
+- [[Spells]]
+- [[Weapons]]
 
 ### Lore and more
 
-[[Characters]]
-
-[[Gods]]
-
-[[Dangers Beings]]
-
-[[Neutral Beings]]
-
-[[Story]]
-
-[[Factions]]
-
-[[Religions]]
-
-[[Continents]]
-
-[[items]]
-
-[[Foods]]
-
-[[Materials and Ingredients]]
-
-[[Books]]
-
-[[timeline]]
-
-[[playlist's]]
-
-[[gameplay shit]]
+- [[Characters]]
+- [[Gods]]
+- [[Dangers Beings]]
+- [[Neutral Beings]]
+- [[Story]]
+- [[Factions]]
+- [[Religions]]
+- [[Continents]]
+- [[items]]
+- [[Foods]]
+- [[Materials and Ingredients]]
+- [[Books]]
+- [[timeline]]
+- [[playlist's]]
+- [[gameplay shit]]
 
 
-Version 1.1.4.1 of the wiki is out NOW
+Version 1.1.4.4 of the wiki is out NOW
 
 

@@ -6,25 +6,24 @@ go to [[Neutral Beings]]
 
 A threat endangering the survival of a continent
 
-[[Great Evil]]
+- [[Great Evil]]
 ## Armageddon Level Threat
 
 Any threat to multiple cities.
 
-[[you mom]]
+- [[you mom]]
 ## Catastrophe Level Threat
 Any threat to a city and its people.
 
-[[Eater of Worlds]]
+- [[Eater of Worlds]]
 ## Elevated Level Threat
 
 Any threat to a large number of people.
 
-[[That one guy]]
+- [[That one guy]]
 ## house fly Level Threat
 
 Any potential threat that poses a danger to an small number of people
 
-[[Metal Mutt]]
-
-[[Nichtmare creates]]
+- [[Metal Mutt]]
+- [[Nichtmare creates]]

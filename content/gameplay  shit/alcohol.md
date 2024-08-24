@@ -1,28 +1,26 @@
 go back to [[gameplay shit]]
 
-wine 1
-beer 1
-strong alcohol 3
-cocktails 2
-
-  
+- wine 1
+- beer 1
+- strong alcohol 3
+- cocktails 2
 
 if you hit 5 roll for constituson
 
-(human 5)
-(dwarf 9)
-(loxodon 6)
-(elfs 5)
-(dragon borns 6)
-(echo ∞)
-(titanbron ∞)
-(gone 2)
-(orc 7)
-(tiefling 8)
-(goblin 4)
-(centaur 6)
-(lizardfolk 3)
-(triton 3)
+- (human 5)
+- (dwarf 9)
+- (loxodon 6)
+- (elfs 5)
+- (dragon borns 6)
+- (echo ∞)
+- (titanbron ∞)
+- (gone 2)
+- (orc 7)
+- (tiefling 8)
+- (goblin 4)
+- (centaur 6)
+- (lizardfolk 3)
+- (triton 3)
 
   
 

@@ -1,30 +1,21 @@
 go back to [[index]]
 
-[[Barbarian]]
+#### Normal Classes
 
-[[Bard]]
+- [[Barbarian]]
+- [[Bard]]
+- [[Cleric]]
+- [[Druid]]
+- [[Fighter]]
+- [[Monk]]
+- [[Paladin]]
+- [[Ranger]]
+- [[Rogue]]
+- [[Sorcerer]]
+- [[Warlock]]
+- [[Wizard]]
 
-[[Cleric]]
-
-[[Druid]]
-
-[[Fighter]]
-
-[[Monk]]
-
-[[Paladin]]
-
-[[Ranger]]
-
-[[Rogue]]
-
-[[Sorcerer]]
-
-[[Warlock]]
-
-[[Wizard]]
-
-HOMEBREW
+#### HOMEBREW
 
 [[Summoner]]
 
