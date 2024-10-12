@@ -10,3 +10,8 @@ go back to [[index]]
 ### Page's (LORE)
 
 - [[Sir. Arnog's Log]]
+
+
+IDK
+
+- [[Tales of the Crumbling Castle]]
