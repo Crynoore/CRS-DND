@@ -2,6 +2,7 @@ go back to [[index]]
 
 #### Normal Classes
 
+- [[Artificer]]
 - [[Barbarian]]
 - [[Bard]]
 - [[Cleric]]

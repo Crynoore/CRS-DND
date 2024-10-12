@@ -12,35 +12,33 @@ ships ''The Stalwart'' ''Flockton'' ''nusa'' ''Minos'' ''vigus'' are still not b
 
 ## log 53 
 
-Leave
-	2 cargo vessels
-
-Arrive
-	 ----
+- Leave
+2 cargo vessels
+- Arrive
+---
 
 missing more and more ship form day to day 
 
 ## log 54
 
-Leave
-	----
+- Leave
+----
 
-Arrive
-	 ----
+- Arrive
+- ----
 ## log 55
+- Leave
+----
 
-Leave
-	----
-
-Arrive
-	 ----
+- Arrive
+ ----
 ## log 56
 
-Leave
-	----
+- Leave
+----
 
-Arrive
-	 ----
+- Arrive
+ ----
 
 they came form the North in droves, we don't know what it was. but all that there's left is flesh, blood and the scent of death. but hey if you found this you probably see that.
 i found a group of people that had a boat, we will seal the sea in hope of fining a better place.

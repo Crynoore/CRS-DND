@@ -17,6 +17,8 @@
 | [Spare the Dying (wikidot.com)](https://dnd5e.wikidot.com/spell:spare-the-dying)<br> |
 | [Toll the Dead (wikidot.com)](https://dnd5e.wikidot.com/spell:toll-the-dead)         |
 
-level 11
+### Soul Harvest
+- level 11
+- you can scarifies Active Summon slot to give 1 of your summons a 1d8 dmg boost per scarifies Active Summon slot
 
 level 15

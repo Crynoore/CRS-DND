@@ -57,8 +57,8 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Your Summon
 
-- The Summoner table Shows how many Summons you can have Active and how many summons you know how to summon you can chose from the [[summoner summons]]. summoning a creature cost 2 action's.(1 at level 9)
-- when you have summoned a creature of your choice it will do its turn at the same time as you (you can chose if the summon go's before you or after) and depending on what summon you use, it will attack, use magic or look pretty  
+- The Summoner table Shows how many Summons you can have Active and how many summons you know how to summon you can chose from the [[summoner summons]]. summoning a creature cost a action and you cant summon a summon the next turn (you can at level 9)
+- when you have summoned a creature of your choice it will do its turn on the same initiative count as you (you can chose if the summon go's before you or after) and depending on what summon you use, it will attack, use magic or look pretty  
 - when you level up you can change your summons to any summon you can get (or when the dm says you can do it. like i care)
 
 ### Cantrips
@@ -89,9 +89,9 @@ Starting at 2nd level, you can
 | heal   | 1d6+1 | 1d6+3    | 1d8+1    | 2d8      | 2d8+2    | 2d10     | 2d12     | 3d10     |
 
 ##### Whip something
-- when you use a whip to attack something all monster summons get +2 to roll for there next attack
+- when you use a whip to attack something all monster summons get +2 to roll for their next attack
 ##### Staff fanatic
-- when you use a staff to attack something all non-monster summons get +2 to roll for there next attack
+- when you use a staff to attack something all non-monster summons get +2 to roll for their next attack
 
 
 ## SUB CLASS

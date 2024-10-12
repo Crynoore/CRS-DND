@@ -3,32 +3,22 @@ go back to [[index]]
 # WIP
 all of them
 
-astronomy
+### astronomy
+- [[Empty Vacuum]]
+- [[Cosmic Nebula]]
+- [[Null Comet]]
+- [[Lunar Spellblade]]
 
-[[Empty Vacuum]]
+### Other spells
+- [[Baʿal Zebub]]
+- [[Glutinous Tar]]
+- [[Visual meter]]
+- [[Summer rizler]]
+- [[Depression talk]]
+- [[luck of the hollows]]
+- [[Blood Sacrifice]]
 
-[[Cosmic Nebula]]
+### Summons
 
-[[Null Comet]]
-
-
-
-[[Baʿal Zebub]]
-
-[[Glutinous Tar]]
-
-[[Visual meter]]
-
-[[Summer rizler]]
-
-[[Depression talk]]
-
-[[luck of the hollows]]
-
-[[Blood Sacrifice]]
-
-Summons
-
-[[summoner summons]]
-
-[[Summoner cantrips list]]
+- [[summoner summons]]
+- [[Summoner cantrips list]]
