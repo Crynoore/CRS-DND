@@ -144,7 +144,7 @@ so now i just have to wait for [[Galiminus]] to arrive he wanted to be there whe
 
 [[Galiminus]] has arrived on the ile.
 
-Now just to get it on him, it's a necklace made from [[cosmic brass]], some material I got from [[Yagor]]. [[Galiminus]] made it into a ouroboros of a dragon, he found it fitting for a dragon.
+Now just to get it on him, it's a necklace made from [[Cosmic Brass]], some material I got from [[Yagor]]. [[Galiminus]] made it into a ouroboros of a dragon, he found it fitting for a dragon.
 
 I have chosen a curse of binding for it since it is not really the idea for him to take it off and it made infusing it with enough mana easier. 
 

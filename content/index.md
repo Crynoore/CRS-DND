@@ -10,6 +10,7 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 - [[Races]]
 - [[Spells]]
 - [[Weapons]]
+- [[Backgronds]]
 
 ### Lore and more
 

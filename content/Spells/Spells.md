@@ -9,6 +9,10 @@ all of them
 - [[Null Comet]]
 - [[Lunar Spellblade]]
 
+### Blood Magic
+- [[Blood Blade]]
+- [[Blood Sacrifice]]
+
 ### Other spells
 - [[Baʿal Zebub]]
 - [[Glutinous Tar]]
@@ -16,7 +20,7 @@ all of them
 - [[Summer rizler]]
 - [[Depression talk]]
 - [[luck of the hollows]]
-- [[Blood Sacrifice]]
+- [[Death mark]]
 
 ### Summons
 

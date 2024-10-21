@@ -2,9 +2,9 @@ go back to [[index]]
 
 Materials
 
-- [[cosmic brass]]
+- [[Cosmic Brass]]
 
 Ingredients
-
-- [[Shorea Flower]]
-- [[Bone srhooms]]
+- [[Fire Ant Nectar]].
+- [[Shorea Flowers]]
+- [[Bone Srhooms]]

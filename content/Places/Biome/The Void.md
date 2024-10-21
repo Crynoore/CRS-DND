@@ -2,7 +2,7 @@
 
 home to the 
 - [[Wanderling Vagrents]]
-- [[overloading worm]]
+- [[Overloading Worm]]
 - [[Whorl]]
 - [[Chelicerate]]
 - [[Gargantuan Leviathan]]

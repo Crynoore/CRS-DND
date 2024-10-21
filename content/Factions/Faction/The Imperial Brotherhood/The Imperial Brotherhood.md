@@ -11,20 +11,12 @@ since 1589 if you would want to join the brotherhood you would need it fill in t
 
 if you join the Brotherhood you get some perks that will increase over time and if yo accomplish something
 
-1-2 years
-- you get a allowance for joining 
-- you get a talisman of the Brotherhood
-2-5 years 
-- you get a room in a Brotherhood Stronghold 
-- you get a monthly allowance
-- you get access to basic amenities at the Stronghold
-- you get more vacation 
-5-8 years
-- you get a higher allowance
-- you get access to most thing at the Stronghold
-- you get even more vacation 
-8+ years 
-- your rank likey gives you better perks at this point
+
+| 1-2 years | - you get a allowance for joining<br>- you get a talisman of the Brotherhood                                                                                       |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2-5 years | - you get a room in a Brotherhood Stronghold <br>- you get a monthly allowance<br>- you get access to basic amenities at the Stronghold<br>- you get more vacation |
+| 5-8 years | - you get a higher allowance<br>- you get access to most thing at the Stronghold<br>- you get even more vacation                                                   |
+| 8+ years  | - your rank likely gives you better perks at this point                                                                                                            |
 
 - [[Brotherhood Initiate]]
 - [[Brotherhood Empiric]]

@@ -6,6 +6,7 @@ go to [[Neutral Beings]]
 A threat endangering the survival of a continent
 
 - [[Great Evil]]
+- [[Gargantuan Leviathan]]
 ## Armageddon Level Threat
 Any threat to multiple cities.
 
@@ -17,9 +18,14 @@ Any threat to a city and its people.
 ## Elevated Level Threat
 Any threat to a large number of people.
 
-- [[That one guy]]
+- [[Overloading Worm]]
+- [[Ghost Eel]]
 ## house fly Level Threat
 Any potential threat that poses a danger to an small number of people
 
 - [[Metal Mutt]]
 - [[Nichtmare creates]]
+- [[Wanderling Vagrents]]
+- [[Whorl]]
+- [[Chelicerate]]
+- 
