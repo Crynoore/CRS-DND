@@ -9,7 +9,7 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 - [[Classes]]
 - [[Races]]
 - [[Spells]]
-- [[Weapons]]
+- [Weapons](items)
 - [[Backgronds]]
 
 ### Lore and more
