@@ -1,3 +1,5 @@
+go back to [[index]]
+
 the guy that has a lot of lore tell
 
 ### Dm for 

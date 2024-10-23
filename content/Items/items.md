@@ -17,6 +17,7 @@ go back to [[index]]
 - [[Brooch of Transcendence]]
 - [[Molten Perforator]]
 - [[Charged Perforator]]
+- [[Visions of Heresy]]
 ## Weapons 
 - [[Cane of Buru]]
 - [[Soul Eater Scythe]]
