@@ -31,6 +31,6 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 - [[gameplay shit]]
 
 
-Version 1.2.1.0 of the wiki is out NOW
+Version 1.2.2.0 of the wiki is out NOW
 
 

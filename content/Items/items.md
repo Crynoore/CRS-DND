@@ -28,6 +28,8 @@ go back to [[index]]
 - [[Ceremonial Dagger]]
 - [[Aspect of the Void]]
 - [[Twisted Twilight Bow]]
+- [[Scava Blade]]
+- [[Pure Phytothril Sword]]
 ## Armor
 - [[Dragon scale Cloak]]
 - [[Implosion Belt]]
