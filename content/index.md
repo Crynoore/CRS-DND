@@ -4,6 +4,7 @@ title: Welcome to the CryBerw DnD Wiki
 
 mostly adds stuff, changes some small things about dnd lore. and all the thing that are difference and or new you can find in here. there are also story's you can read the follow some Inhabitants of the world.
 
+run by [[Crynoore]] and [[Deanamo]]
 ### make your guy
 
 - [[Classes]]
@@ -31,6 +32,6 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 - [[gameplay shit]]
 
 
-Version 1.2.2.0 of the wiki is out NOW
+Version 1.2.3.0 of the wiki is out NOW
 
 

@@ -10,7 +10,7 @@ go back to [[Characters]]
 - [[Pablo]]
 - [[Valeran Dravenhart]]
 - [[W1-g-Ch-El (Wigchel)]]
-- [[currently unnamed]]
+- [[Aragnis Morioth]]
 
 
 and of couse the lovly dm [[Deanamo]]

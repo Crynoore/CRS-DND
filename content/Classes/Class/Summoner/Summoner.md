@@ -60,6 +60,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - The Summoner table Shows how many Summons you can have Active and how many summons you know how to summon you can chose from the [[summoner summons]]. summoning a creature cost a action and you cant summon a summon the next turn (you can at level 9)
 - when you have summoned a creature of your choice it will do its turn on the same initiative count as you (you can chose if the summon go's before you or after) and depending on what summon you use, it will attack, use magic or look pretty  
 - when you level up you can change your summons to any summon you can get (or when the dm says you can do it. like i care)
+- you summoning is based of your WIS
 
 ### Cantrips
 
@@ -95,7 +96,7 @@ Starting at 2nd level, you can
 
 
 ## SUB CLASS
-at level 5 you get a sub class, Pick you poison of this class
+at level 3 you get a sub class, Pick you poison of this class
 
 - [[Necroform]]
 - [[Monster wrangler]]

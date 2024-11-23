@@ -1,6 +1,6 @@
 go back to [[index]]
 
-the guy that has a lot of lore tell
+the guy that has a lot of lore to tell
 
 ### Dm for 
 - [[green-and-scales]]

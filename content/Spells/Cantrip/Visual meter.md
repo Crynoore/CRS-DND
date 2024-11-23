@@ -10,6 +10,7 @@ cantrip
 
 you get a visual meter
 
+if you use this an something that has a conscious that being will need to do a int saving throw, if they fail you know something about that being.
 
 
 

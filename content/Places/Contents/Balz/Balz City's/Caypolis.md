@@ -8,5 +8,5 @@ is perty big has most of the utiletis building 
 
 like/dislike  
 ++human  
-= dwarf’s  
+-- dwarf’s  
 - -everything else

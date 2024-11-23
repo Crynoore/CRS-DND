@@ -5,7 +5,7 @@ Go back to [[Summoner]]
 - summons 1 per 1 Active slot
 
 **Armor Class** 11  
-**Hit Points** 12   
+**Hit Points** 6   
 **Speed** 20 ft.
 
 | *Ability*    | Score | Bonus |
@@ -26,7 +26,7 @@ Go back to [[Summoner]]
 - summons 1 per 1 Active slot
 
 **Armor Class** 10
-**Hit Points** 12   
+**Hit Points** 6
 **Speed** 20 ft.
 
 | *Ability*    | Score | Bonus |
@@ -47,7 +47,7 @@ deals 5 cold dmg and kills your summon
 ## Small Earth elemental
 - summons 1 per 1 Active slot
 
-**Armor Class** 14
+**Armor Class** 6
 **Hit Points** 25   
 **Speed** 20 ft.
 
@@ -71,7 +71,7 @@ deals 5 cold dmg and kills your summon
 - summons 1 per 1 Active slot
 
 **Armor Class** 11  
-**Hit Points** 12   
+**Hit Points** 6   
 **Speed** 40 ft.
 
 | *Ability*    | Score | Bonus |
@@ -88,6 +88,12 @@ deals 5 cold dmg and kills your summon
 - +1 to roll Range 60ft deals 1d6 piercing dmg if the enemy is in the last 5ft of the range of this attack deals 1d6 piercing extra dmg and a +2 to roll
 #### Explode
 - deals 5  piercing dmg and kills your summon 
+
+## Shora Hydra Head
+- summons 1 per 1 Active slot (max 1) 
+- takes roll from summon weapon
+- deals class level x d6 magical piercing damage -1 per class lvl
+- can shoot again for 30 seconds (5 turns)
 ## UnSentience Sentience Slime
 - summons 1 per 1 Active slot
 - takes roll from summon weapon
@@ -98,15 +104,13 @@ deals 5 cold dmg and kills your summon
 ## Lustful Spirit
 - summons 1 per 1 Active slot
 - takes roll from summon weapon
-a saving throw if failed distract opponent for 10 minutes  
-
-takes 5 hits before disappearing (ac 10)
+a cha saving throw if failed distract opponent for 10 minutes  
 # Tier 2 summons
 ## Hanus
 - summons 1 per 1 Active slot(cant summer more then 1)
 
 **Armor Class** 13  
-**Hit Points** 30
+**Hit Points** 14
 **Speed** 30 ft.
 
 | *Ability*    | Score | Bonus |
@@ -145,7 +149,7 @@ summon gets +x ac and +x hp per Active slot it uses,
 - can scare a lot of people and is good at stealing +4 to intimidation and sleight of hand  
 # Tier 3 summons
 ## Sentient blades
-- summons 5 per 1 Active slot
+- summons 3 per 1 Active slot
 - takes roll from summon weapon -1
 - Deals 1d4+1 dmg 
 - If hits deals -1 AC  (max of -5)
@@ -173,8 +177,8 @@ when you first summon the Prismatic Blade roll a d8 for the type, chose the time
 ## Rock Golam
 - summons 1 per 2 Active slot
 **Armor Class** 16  
-**Hit Points** 62
-**Speed** 30 ft.
+**Hit Points** 22
+**Speed** 20 ft.
 
 | *Ability*    | Score | Bonus |
 | ------------ | ----- | ----- |

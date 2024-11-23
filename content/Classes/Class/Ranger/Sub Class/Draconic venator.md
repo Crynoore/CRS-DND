@@ -10,6 +10,8 @@ level 3
 level 3
 
 -you get the Resistance to the damage type same as the type of the ancestry of the dragon
+
+**Thaumaturgy. You learn the [Thaumaturgy](https://dnd5e.wikidot.com/spell:thaumaturgy) cantrip, which is a ranger spell for you**
 #### wrath of the Ancestors {active}
 level 7
 

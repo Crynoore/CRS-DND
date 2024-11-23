@@ -19,6 +19,6 @@
 
 ### Soul Harvest
 - level 11
-- you can scarifies Active Summon slot to give 1 of your summons a 1d8 dmg boost per scarifies Active Summon slot
+- as a bonus action you can scarifies Active Summon slot to give 1 of your summons a 2d8 dmg boost per scarifies Active Summon slot for 30 min
 
 level 15

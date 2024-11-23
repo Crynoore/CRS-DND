@@ -1,6 +1,6 @@
 go back to [[index]]
 
-on of the guys that keeps the ship running
+one of the guys that keeps the ship running
 
 ### the dm for 
 - [[Dean and D]]
